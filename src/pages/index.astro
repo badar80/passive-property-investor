@@ -1,11 +1,361 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta
+			name="description"
+			content="UK property investing insights backed by real housing data and over 25 years of landlord experience."
+		/>
+		<title>The Passive Property Investor | UK Property Data & Investing</title>
+	</head>
+
+	<body>
+		<header>
+			<div class="container nav">
+				<a class="brand" href="/">The Passive Property Investor</a>
+
+				<nav>
+					<a href="/investing/">Property Investing</a>
+					<a href="/landlording/">Landlording</a>
+					<a href="/data/">UK Property Data</a>
+					<a href="/resources/">Tools & Resources</a>
+					<a href="/about/">About</a>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<section class="hero">
+				<div class="container hero-content">
+					<p class="eyebrow">PROPERTY • DATA • EXPERIENCE</p>
+
+					<h1>Smarter UK property investing, backed by real data.</h1>
+
+					<p class="intro">
+						Clear, evidence-based property insights from a landlord with
+						over 25 years of experience — using real UK housing data,
+						not hype.
+					</p>
+
+					<div class="buttons">
+						<a class="button primary" href="/data/">Explore Property Data</a>
+						<a class="button secondary" href="/investing/">Property Investing Guides</a>
+					</div>
+				</div>
+			</section>
+
+			<section class="why">
+				<div class="container">
+					<p class="section-label">WHAT YOU'LL FIND HERE</p>
+					<h2>Property investing without the noise.</h2>
+
+					<div class="cards">
+						<article>
+							<div class="icon">⌂</div>
+							<h3>Property Investing</h3>
+							<p>
+								Research, analysis and practical guides to help you make
+								better-informed property investment decisions.
+							</p>
+							<a href="/investing/">Explore investing →</a>
+						</article>
+
+						<article>
+							<div class="icon">▥</div>
+							<h3>UK Property Data</h3>
+							<p>
+								House prices, locations, trends and comparisons using real
+								UK housing-market data.
+							</p>
+							<a href="/data/">Explore the data →</a>
+						</article>
+
+						<article>
+							<div class="icon">✓</div>
+							<h3>Real Landlord Experience</h3>
+							<p>
+								Lessons from more than two decades of tenants, agents,
+								mortgages, maintenance and managing rental property.
+							</p>
+							<a href="/landlording/">Landlord guides →</a>
+						</article>
+					</div>
+				</div>
+			</section>
+
+			<section class="mission">
+				<div class="container mission-inner">
+					<div>
+						<p class="section-label">THE PASSIVE PROPERTY INVESTOR</p>
+						<h2>Data first. Experience second. Hype nowhere.</h2>
+					</div>
+
+					<p>
+						Property is full of opinions. This site takes a different approach:
+						start with the numbers, combine them with real-world landlord
+						experience, and use both to make more informed decisions.
+					</p>
+				</div>
+			</section>
+		</main>
+
+		<footer>
+			<div class="container footer">
+				<strong>The Passive Property Investor</strong>
+				<span>UK property analysis, investing and landlording.</span>
+			</div>
+		</footer>
+	</body>
+</html>
+
+<style>
+	:global(*) {
+		box-sizing: border-box;
+	}
+
+	:global(html) {
+		font-family:
+			Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+			"Segoe UI", sans-serif;
+		color: #18202a;
+		background: #ffffff;
+	}
+
+	:global(body) {
+		margin: 0;
+		line-height: 1.6;
+	}
+
+	.container {
+		width: min(1160px, calc(100% - 40px));
+		margin: 0 auto;
+	}
+
+	header {
+		border-bottom: 1px solid #e7ebee;
+		background: rgba(255, 255, 255, 0.97);
+	}
+
+	.nav {
+		min-height: 76px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 30px;
+	}
+
+	.brand {
+		font-weight: 800;
+		font-size: 1.05rem;
+		color: #142c3d;
+		text-decoration: none;
+		white-space: nowrap;
+	}
+
+	nav {
+		display: flex;
+		gap: 25px;
+	}
+
+	nav a {
+		text-decoration: none;
+		color: #46535e;
+		font-size: 0.9rem;
+		font-weight: 600;
+	}
+
+	nav a:hover {
+		color: #0c6b58;
+	}
+
+	.hero {
+		padding: 115px 0 125px;
+		background:
+			radial-gradient(circle at 85% 20%, rgba(18, 125, 102, 0.12), transparent 32%),
+			linear-gradient(135deg, #f7faf9 0%, #ffffff 65%);
+		border-bottom: 1px solid #edf0f1;
+	}
+
+	.hero-content {
+		max-width: 900px;
+	}
+
+	.eyebrow,
+	.section-label {
+		color: #08715c;
+		font-size: 0.76rem;
+		font-weight: 800;
+		letter-spacing: 0.14em;
+		margin: 0 0 20px;
+	}
+
+	h1 {
+		font-size: clamp(3rem, 6vw, 5.4rem);
+		line-height: 1.02;
+		letter-spacing: -0.055em;
+		max-width: 900px;
+		margin: 0;
+		color: #142532;
+	}
+
+	.intro {
+		max-width: 720px;
+		font-size: 1.28rem;
+		color: #53616b;
+		margin: 30px 0 36px;
+	}
+
+	.buttons {
+		display: flex;
+		gap: 12px;
+		flex-wrap: wrap;
+	}
+
+	.button {
+		display: inline-block;
+		padding: 13px 20px;
+		border-radius: 7px;
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 0.93rem;
+	}
+
+	.primary {
+		background: #0b6f5c;
+		color: white;
+	}
+
+	.secondary {
+		border: 1px solid #ccd5d9;
+		color: #253744;
+		background: white;
+	}
+
+	.why {
+		padding: 95px 0;
+	}
+
+	h2 {
+		font-size: clamp(2rem, 4vw, 3.2rem);
+		line-height: 1.1;
+		letter-spacing: -0.04em;
+		color: #142532;
+		margin: 0 0 50px;
+	}
+
+	.cards {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 22px;
+	}
+
+	.cards article {
+		border: 1px solid #e2e7e9;
+		border-radius: 10px;
+		padding: 32px;
+		background: #fff;
+	}
+
+	.icon {
+		width: 42px;
+		height: 42px;
+		display: grid;
+		place-items: center;
+		border-radius: 8px;
+		background: #e9f5f1;
+		color: #0b6f5c;
+		font-weight: 800;
+		margin-bottom: 25px;
+	}
+
+	h3 {
+		font-size: 1.25rem;
+		margin: 0 0 12px;
+		color: #172b38;
+	}
+
+	.cards p {
+		color: #62707a;
+		font-size: 0.96rem;
+	}
+
+	.cards a {
+		display: inline-block;
+		margin-top: 10px;
+		color: #0b6f5c;
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 0.9rem;
+	}
+
+	.mission {
+		background: #132a38;
+		color: white;
+		padding: 85px 0;
+	}
+
+	.mission-inner {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 90px;
+		align-items: center;
+	}
+
+	.mission h2 {
+		color: white;
+		margin-bottom: 0;
+	}
+
+	.mission .section-label {
+		color: #79d2bd;
+	}
+
+	.mission-inner > p {
+		color: #c9d4da;
+		font-size: 1.08rem;
+	}
+
+	footer {
+		padding: 30px 0;
+		background: #0e202b;
+		color: #aebdc5;
+		font-size: 0.85rem;
+	}
+
+	.footer {
+		display: flex;
+		justify-content: space-between;
+		gap: 20px;
+	}
+
+	.footer strong {
+		color: white;
+	}
+
+	@media (max-width: 850px) {
+		nav {
+			display: none;
+		}
+
+		.hero {
+			padding: 80px 0;
+		}
+
+		.cards,
+		.mission-inner {
+			grid-template-columns: 1fr;
+		}
+
+		.mission-inner {
+			gap: 20px;
+		}
+
+		.footer {
+			flex-direction: column;
+		}
+	}
+</style>
