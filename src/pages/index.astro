@@ -98,8 +98,7 @@ const articles = (await getCollection('articles'))
 
 					<div class="article-list">
 						{articles.map((article) => (
-							<article class="article-card">
-								<p class="article-category">{article.data.category}</p>
+							<article class="article-card">								
 								<h3>
 									<a href={`/articles/${article.id}/`}>
 										{article.data.title}
