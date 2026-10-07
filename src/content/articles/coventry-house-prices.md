@@ -19,6 +19,8 @@ That represents an increase of around 291% over the period, meaning the average 
 
 The rise has not been smooth, however. Coventry experienced periods of rapid growth as well as periods when average sale prices fell or remained relatively flat. Looking at the annual data makes these different phases much clearer.
 
+![Coventry average house prices from 2000 to 2025](/images/coventry-house-prices-2000-2025.svg)
+
 ### How the data was calculated
 
 The analysis uses HM Land Registry Price Paid Data for residential transactions within the Coventry local authority district. It includes detached, semi-detached, terraced properties and flats/maisonettes recorded as standard Category A transactions.
