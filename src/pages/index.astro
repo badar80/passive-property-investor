@@ -91,7 +91,29 @@ const articles = (await getCollection('articles'))
 					</div>
 				</div>
 			</section>
+			<section class="latest">
+				<div class="container">
+					<p class="section-label">LATEST ANALYSIS</p>
+					<h2>Latest property insights</h2>
 
+					<div class="article-list">
+						{articles.map((article) => (
+							<article class="article-card">
+								<p class="article-category">{article.data.category}</p>
+								<h3>
+									<a href={`/articles/${article.id}/`}>
+										{article.data.title}
+									</a>
+								</h3>
+								<p>{article.data.description}</p>
+								<a class="read-more" href={`/articles/${article.id}/`}>
+									Read analysis →
+								</a>
+							</article>
+						))}
+					</div>
+				</div>
+			</section>
 			<section class="mission">
 				<div class="container mission-inner">
 					<div>
