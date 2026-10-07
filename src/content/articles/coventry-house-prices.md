@@ -10,3 +10,5 @@ Coventry house prices have changed dramatically over the past 30 years, but the 
 Using actual UK property sales data, we can look beyond headlines and see what has really happened to house prices in Coventry over the long term.
 
 This article will examine the data, the trends and what they may mean for property investors.
+
+## How Coventry House Prices Have Changed Over 30 Years
