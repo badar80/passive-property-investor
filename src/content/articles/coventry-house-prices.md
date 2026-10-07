@@ -18,3 +18,9 @@ The long-term trend in Coventry house prices has been substantial. According to 
 That represents an increase of around 291% over the period, meaning the average transaction price was approximately 3.9 times higher in 2025 than it was in 2000.
 
 The rise has not been smooth, however. Coventry experienced periods of rapid growth as well as periods when average sale prices fell or remained relatively flat. Looking at the annual data makes these different phases much clearer.
+
+### How the data was calculated
+
+The analysis uses HM Land Registry Price Paid Data for residential transactions within the Coventry local authority district. It includes detached, semi-detached, terraced properties and flats/maisonettes recorded as standard Category A transactions.
+
+The figures shown are average recorded transaction prices for each year rather than a house price index. This means changes in the mix of properties sold from one year to another can influence the annual average.
