@@ -20,7 +20,7 @@ That represents an increase of around 291% over the period, meaning the average 
 The rise has not been smooth, however. Coventry experienced periods of rapid growth as well as periods when average sale prices fell or remained relatively flat. Looking at the annual data makes these different phases much clearer.
 
 <img
-  src="/images/coventry-house-prices-2000-2025.svg"
+  src="/images/coventry-house-prices-2000-2025.svg.svg"
   alt="Coventry average house prices from 2000 to 2025"
   loading="lazy"
 />
