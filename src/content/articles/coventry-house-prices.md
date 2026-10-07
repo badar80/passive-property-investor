@@ -64,3 +64,11 @@ After the strong growth of the previous decade, Coventry house prices became muc
 The average then increased to approximately £254,500 in 2025, the highest annual figure in this 25-year dataset.
 
 Overall, the data suggests that price growth slowed considerably after 2022. Rather than continuing the strong upward trend seen during much of the previous decade, average transaction prices remained close to the £240,000–£255,000 range between 2022 and 2025.
+
+## What Does This Mean for Coventry Property Investors?
+
+The 25-year data shows why it can be misleading to think of property prices as rising at a constant rate. Coventry experienced periods of very rapid growth, several years of stagnation or falling average prices, and longer periods of more gradual appreciation.
+
+For a property investor, this means the purchase price and the point in the market cycle can matter considerably. Someone buying in Coventry in the early 2000s experienced a very different market from someone buying shortly before the 2008 downturn or during the flatter period after 2022.
+
+It is also important not to treat the Coventry-wide average as the expected performance of an individual property. Different property types and areas of the city can behave differently, which is something I will examine separately using the underlying transaction data.
