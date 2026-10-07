@@ -72,3 +72,34 @@ The 25-year data shows why it can be misleading to think of property prices as r
 For a property investor, this means the purchase price and the point in the market cycle can matter considerably. Someone buying in Coventry in the early 2000s experienced a very different market from someone buying shortly before the 2008 downturn or during the flatter period after 2022.
 
 It is also important not to treat the Coventry-wide average as the expected performance of an individual property. Different property types and areas of the city can behave differently, which is something I will examine separately using the underlying transaction data.
+
+## Coventry House Prices by Year
+
+| Year | Average sale price |
+|---|---:|
+| 2000 | £65,108 |
+| 2001 | £73,210 |
+| 2002 | £87,405 |
+| 2003 | £106,727 |
+| 2004 | £123,548 |
+| 2005 | £131,387 |
+| 2006 | £142,274 |
+| 2007 | £146,840 |
+| 2008 | £140,986 |
+| 2009 | £135,370 |
+| 2010 | £139,944 |
+| 2011 | £136,397 |
+| 2012 | £138,852 |
+| 2013 | £146,673 |
+| 2014 | £155,134 |
+| 2015 | £166,633 |
+| 2016 | £176,313 |
+| 2017 | £187,981 |
+| 2018 | £199,650 |
+| 2019 | £202,301 |
+| 2020 | £210,729 |
+| 2021 | £227,936 |
+| 2022 | £243,059 |
+| 2023 | £241,916 |
+| 2024 | £243,006 |
+| 2025 | £254,514 |
