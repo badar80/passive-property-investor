@@ -1,6 +1,6 @@
 ---
 title: "Coventry House Prices: 30 Years of Property Price Data"
-description: "An analysis of Coventry house prices using real UK property sales data, looking at long-term trends and what they mean for property investors."
+description: "Explore 30 years of Coventry house price data, including long-term property price trends and what they could mean for property investors."
 pubDate: 2026-10-07
 category: "data"
 ---
