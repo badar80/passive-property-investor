@@ -48,3 +48,11 @@ The rapid growth of the early 2000s came to an end after 2007. The average recor
 Prices then remained relatively subdued. By 2012, the average recorded sale price was approximately £138,900 — still around 5% below the 2007 level.
 
 This period stands out clearly in the long-term data because it interrupted the strong upward trend seen during the first part of the decade.
+
+### 2013–2022: A Decade of Renewed Growth
+
+Coventry house prices began rising again from 2013. The average recorded sale price increased from approximately £146,700 in 2013 to £243,100 in 2022.
+
+That represents an increase of around 66% over nine years. Unlike the very rapid increases of the early 2000s, this was a longer period of relatively sustained growth, with average transaction prices rising in most years.
+
+By 2022, the average recorded sale price in Coventry was more than three and a half times its 2000 level.
