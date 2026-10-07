@@ -5,7 +5,7 @@ pubDate: 2026-10-07
 category: "data"
 ---
 
-Coventry's property market has changed considerably over the past few decades.
+Coventry's property market has changed considerably over recent decades.
 
 Using actual UK property sales data, we can look beyond headlines and see what has really happened to house prices in Coventry over the long term.
 
