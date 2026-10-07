@@ -1,5 +1,5 @@
 ---
-title: "Coventry House Prices: What the Data Shows"
+title:
 description: "An analysis of Coventry house prices using real UK property sales data, looking at long-term trends and what they mean for property investors."
 pubDate: 2026-10-07
 category: "data"
