@@ -25,6 +25,10 @@ The rise has not been smooth, however. Coventry experienced periods of rapid gro
   loading="lazy"
 />
 
+## The Four Main Phases of Coventry House Price Growth
+
+Looking at the data, Coventry's housing market over the past 25 years can broadly be divided into four periods: rapid growth in the early 2000s, a weaker period following 2007, renewed growth from the mid-2010s, and a much flatter market in recent years.
+
 ### How the data was calculated
 
 The analysis uses HM Land Registry Price Paid Data for residential transactions within the Coventry local authority district. It includes detached, semi-detached, terraced properties and flats/maisonettes recorded as standard Category A transactions.
