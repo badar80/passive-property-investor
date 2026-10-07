@@ -25,6 +25,12 @@ The rise has not been smooth, however. Coventry experienced periods of rapid gro
   loading="lazy"
 />
 
+### How the data was calculated
+
+The analysis uses HM Land Registry Price Paid Data for residential transactions within the Coventry local authority district. It includes detached, semi-detached, terraced properties and flats/maisonettes recorded as standard Category A transactions.
+
+The figures shown are average recorded transaction prices for each year rather than a house price index. This means changes in the mix of properties sold from one year to another can influence the annual average.
+
 ## The Four Main Phases of Coventry House Price Growth
 
 Looking at the data, Coventry's housing market over the past 25 years can broadly be divided into four periods: rapid growth in the early 2000s, a weaker period following 2007, renewed growth from the mid-2010s, and a much flatter market in recent years.
@@ -35,8 +41,3 @@ The strongest period of growth came during the early 2000s. The average recorded
 
 That is an increase of around 126% in just seven years, meaning average transaction prices more than doubled over the period. The rise was particularly rapid between 2001 and 2004, when the average increased from around £73,200 to £123,500.
 
-### How the data was calculated
-
-The analysis uses HM Land Registry Price Paid Data for residential transactions within the Coventry local authority district. It includes detached, semi-detached, terraced properties and flats/maisonettes recorded as standard Category A transactions.
-
-The figures shown are average recorded transaction prices for each year rather than a house price index. This means changes in the mix of properties sold from one year to another can influence the annual average.
