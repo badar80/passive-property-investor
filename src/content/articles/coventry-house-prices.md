@@ -56,3 +56,11 @@ Coventry house prices began rising again from 2013. The average recorded sale pr
 That represents an increase of around 66% over nine years. Unlike the very rapid increases of the early 2000s, this was a longer period of relatively sustained growth, with average transaction prices rising in most years.
 
 By 2022, the average recorded sale price in Coventry was more than three and a half times its 2000 level.
+
+### 2023–2025: A Flatter Market
+
+After the strong growth of the previous decade, Coventry house prices became much flatter. The average recorded sale price was approximately £241,900 in 2023 and £243,000 in 2024, compared with £243,100 in 2022.
+
+The average then increased to approximately £254,500 in 2025, the highest annual figure in this 25-year dataset.
+
+Overall, the data suggests that price growth slowed considerably after 2022. Rather than continuing the strong upward trend seen during much of the previous decade, average transaction prices remained close to the £240,000–£255,000 range between 2022 and 2025.
