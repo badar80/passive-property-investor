@@ -1,0 +1,48 @@
+---
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const articles = await getCollection('articles');
+
+	return articles.map((article) => ({
+		params: { slug: article.id },
+		props: { article },
+	}));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://passivepropertyinvestor.co.uk');
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="description" content={article.data.description} />
+		<link rel="canonical" href={canonicalURL} />
+		<title>{article.data.title} | The Passive Property Investor</title>
+	</head>
+
+	<body>
+		<main>
+			<article>
+				<a href="/">← The Passive Property Investor</a>
+
+				<h1>{article.data.title}</h1>
+
+				<p>
+					Published {article.data.pubDate.toLocaleDateString('en-GB', {
+						day: 'numeric',
+						month: 'long',
+						year: 'numeric'
+					})}
+				</p>
+
+				<Content />
+			</article>
+		</main>
+	</body>
+</html>
