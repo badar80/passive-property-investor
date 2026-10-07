@@ -1,5 +1,5 @@
 ---
-title: "Coventry House Prices: 30 Years of Property Price Data"
+title: "Coventry House Prices: 25 Years of Property Price Data"
 description: "Explore 25 years of Coventry house price data, including long-term property price trends and what they could mean for property investors."
 pubDate: 2026-10-07
 category: "data"
@@ -11,7 +11,7 @@ Using actual UK property sales data, we can look beyond headlines and see what h
 
 This article will examine the data, the trends and what they may mean for property investors.
 
-## How Coventry House Prices Have Changed Over 30 Years
+## How Coventry House Prices Have Changed Over 25 Years
 
 The long-term trend in Coventry house prices has been substantial. According to my analysis of HM Land Registry Price Paid Data, the average recorded sale price in Coventry increased from approximately £73,900 in 2000 to £278,300 in 2025.
 
