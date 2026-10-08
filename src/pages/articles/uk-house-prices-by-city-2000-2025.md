@@ -5,8 +5,6 @@ pubDate: 2026-10-08
 category: "data"
 ---
 
-# UK House Prices by City: Which Locations Grew Most Between 2000 and 2025?
-
 Which UK cities have experienced the strongest house price growth over the past 25 years?
 
 Using HM Land Registry Price Paid Data, we analysed residential property transactions across 30 major towns and cities in England and Wales, comparing average sale prices in 2000 and 2025.
