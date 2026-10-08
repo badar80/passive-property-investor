@@ -65,3 +65,31 @@ The table below ranks 30 major towns and cities in England and Wales by the perc
 | 30 | Reading | £158,431 | £477,091 | 201.1% |
 
 *Source: HM Land Registry Price Paid Data. Figures are nominal arithmetic averages of qualifying residential transactions, grouped by the Land Registry Town/City field. The locations are not necessarily equivalent to official local authority boundaries. Rankings cover these 30 selected locations, not every UK city.*
+## How We Calculated House Price Growth
+
+This analysis uses HM Land Registry Price Paid Data for residential property transactions in England and Wales.
+
+We compared transactions recorded in 2000 and 2025 across 30 selected towns and cities.
+
+The analysis includes:
+
+- Detached, semi-detached, terraced properties and flats.
+- Standard residential transactions (Price Paid Data Category A).
+- Average sale prices calculated using the arithmetic mean.
+- Locations grouped using the Land Registry Town/City field.
+
+Percentage growth was calculated as:
+
+**((Average price in 2025 / Average price in 2000) - 1) × 100**
+
+### Important Limitations
+
+These figures are not a house price index.
+
+Average transaction prices can change because of differences in the types, sizes and locations of properties sold in each year.
+
+The analysis measures nominal price growth and does not account for inflation, rental income, financing costs, taxation or maintenance expenses.
+
+Land Registry Town/City classifications do not necessarily correspond to official local authority boundaries.
+
+The rankings cover 30 selected high-transaction locations rather than every UK city. Northern Ireland and Scotland are not included in this dataset.
