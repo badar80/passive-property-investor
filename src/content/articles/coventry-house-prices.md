@@ -41,6 +41,12 @@ The strongest period of growth came during the early 2000s. The average recorded
 
 That is an increase of around 126% in just seven years, meaning average transaction prices more than doubled over the period. The rise was particularly rapid between 2001 and 2004, when the average increased from around £73,200 to £123,500.
 
+<img
+  src="/images/coventry-house-prices-2000-2007.svg"
+  alt="Average Coventry house prices by year from 2000 to 2007"
+  loading="lazy"
+/>
+
 ### 2008–2012: Prices Fall and Then Stagnate
 
 The rapid growth of the early 2000s came to an end after 2007. The average recorded sale price in Coventry fell from approximately £146,800 in 2007 to £141,000 in 2008 and £135,400 in 2009.
