@@ -20,3 +20,42 @@ London, despite having considerably higher average property prices, recorded gro
 This analysis explores which locations performed strongest, how their average prices compare, and what the findings may mean for property investors and developers.
 
 **Important:** These figures represent changes in average recorded transaction prices, not a repeat-sales house price index. Differences in the types and locations of properties sold can influence the results.
+
+## UK House Price Growth Rankings: 2000–2025
+
+The table below ranks 30 major towns and cities in England and Wales by the percentage increase in their average residential transaction prices between 2000 and 2025.
+
+| Rank | Town / City | Average Price 2000 | Average Price 2025 | Growth |
+|---:|---|---:|---:|---:|
+| 1 | Manchester | £59,805 | £280,714 | 369.4% |
+| 2 | Stockport | £85,377 | £359,537 | 321.1% |
+| 3 | Leicester | £74,002 | £303,148 | 309.6% |
+| 4 | Plymouth | £66,831 | £264,914 | 296.4% |
+| 5 | Doncaster | £56,449 | £222,485 | 294.1% |
+| 6 | Sheffield | £66,739 | £262,543 | 293.4% |
+| 7 | Liverpool | £61,373 | £239,652 | 290.5% |
+| 8 | Stoke-on-Trent | £54,496 | £211,943 | 288.9% |
+| 9 | Derby | £70,551 | £272,844 | 286.7% |
+| 10 | Bristol | £103,157 | £398,183 | 286.0% |
+| 11 | Nottingham | £72,455 | £279,446 | 285.7% |
+| 12 | Peterborough | £76,037 | £291,910 | 283.9% |
+| 13 | York | £93,125 | £355,917 | 282.2% |
+| 14 | Hull | £47,186 | £178,061 | 277.4% |
+| 15 | Cardiff | £85,626 | £322,723 | 276.9% |
+| 16 | Norwich | £87,086 | £327,144 | 275.7% |
+| 17 | London | £215,868 | £806,342 | 273.5% |
+| 18 | Bradford | £50,633 | £188,051 | 271.4% |
+| 19 | Leeds | £76,386 | £283,639 | 271.3% |
+| 20 | Milton Keynes | £103,320 | £383,644 | 271.3% |
+| 21 | Colchester | £103,018 | £380,522 | 269.4% |
+| 22 | Birmingham | £70,790 | £260,999 | 268.7% |
+| 23 | Coventry | £73,918 | £269,938 | 265.2% |
+| 24 | Preston | £69,484 | £253,434 | 264.7% |
+| 25 | Cambridge | £145,652 | £529,140 | 263.3% |
+| 26 | Northampton | £93,903 | £322,787 | 243.7% |
+| 27 | Newcastle upon Tyne | £75,896 | £259,342 | 241.7% |
+| 28 | Southampton | £107,705 | £346,473 | 221.7% |
+| 29 | Swindon | £102,759 | £319,016 | 210.4% |
+| 30 | Reading | £158,431 | £477,091 | 201.1% |
+
+*Source: HM Land Registry Price Paid Data. Figures are nominal arithmetic averages of qualifying residential transactions, grouped by the Land Registry Town/City field. The locations are not necessarily equivalent to official local authority boundaries. Rankings cover these 30 selected locations, not every UK city.*
