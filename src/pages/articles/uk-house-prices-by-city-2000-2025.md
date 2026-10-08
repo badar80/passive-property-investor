@@ -93,3 +93,50 @@ The analysis measures nominal price growth and does not account for inflation, r
 Land Registry Town/City classifications do not necessarily correspond to official local authority boundaries.
 
 The rankings cover 30 selected high-transaction locations rather than every UK city. Northern Ireland and Scotland are not included in this dataset.
+
+## What Do These Results Mean for Property Investors and Developers?
+
+### 1. Manchester's Long-Term Growth Stands Out
+
+Manchester recorded the strongest growth among the 30 locations analysed, with average transaction prices increasing by 369.4% between 2000 and 2025.
+
+This demonstrates how substantially property market prices can change over a 25-year period.
+
+However, historical growth does not guarantee future performance. Investors should also examine rental yields, local employment, housing supply and acquisition costs.
+
+### 2. Lower Property Prices Do Not Necessarily Mean Lower Growth
+
+Doncaster, Liverpool and Stoke-on-Trent all recorded substantial historical price increases despite having average transaction prices below £250,000 in 2025.
+
+This illustrates why investors should consider both property affordability and historical price performance rather than focusing exclusively on expensive markets.
+
+### 3. London Was Not the Strongest Performer
+
+London's average transaction price reached £806,342 in 2025, substantially higher than the other locations analysed.
+
+However, its 273.5% growth placed it 17th out of the 30 locations.
+
+Higher absolute property prices do not necessarily translate into stronger percentage growth.
+
+### 4. What Property Developers Should Consider
+
+For property developers, historical price growth is only one component of market research.
+
+Other important factors include:
+
+- Local planning policies and development restrictions.
+- Land acquisition and construction costs.
+- Demand for different property types.
+- Comparable sales and achievable completed values.
+- Local infrastructure and employment trends.
+- Financing costs and development margins.
+
+Historical transaction data can help identify markets for further investigation, but it cannot establish whether a particular development is financially viable.
+
+### 5. Capital Growth Is Not the Same as Investment Return
+
+The rankings measure changes in average transaction prices, not actual investment returns.
+
+A complete investment assessment should also consider rental income, operating expenses, financing, taxation, inflation and the timing of purchases and sales.
+
+Investors should therefore treat these results as an initial market screening tool rather than a definitive ranking of the best places to invest.
