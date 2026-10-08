@@ -40,8 +40,9 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 						year: 'numeric'
 					})}
 				</p>
-
-				<Content />
+	<div class="article-content">
+    <Content />
+</div>
 			</article>
 		</main>
 	</body>
@@ -93,7 +94,7 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 		margin-bottom: 50px;
 	}
 
-	article :global(p) {
+	.article-content :global(p) {
 		font-size: 1.1rem;
 		color: #3f4d57;
 		margin: 0 0 24px;
