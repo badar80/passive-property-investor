@@ -23,6 +23,12 @@ This analysis explores which locations performed strongest, how their average pr
 
 ## UK House Price Growth Rankings: 2000–2025
 
+<img
+  src="/images/uk-house-price-growth-top-10-2000-2025.svg"
+  alt="Top 10 towns and cities by average house price growth between 2000 and 2025, led by Manchester at 369.4%"
+  loading="lazy"
+/>
+
 The table below ranks 30 major towns and cities in England and Wales by the percentage increase in their average residential transaction prices between 2000 and 2025.
 
 | Rank | Town / City | Average Price 2000 | Average Price 2025 | Growth |
