@@ -1,6 +1,6 @@
 ---
 title: "Coventry House Prices: 25 Years of Property Price Data"
-description: "Explore 25 years of Coventry house price data, including long-term property price trends and what they could mean for property investors."
+description: "Coventry house prices from 2000 to 2025. Explore 25 years of Land Registry data, average property prices, historical trends and insights for investors."
 pubDate: 2026-10-07
 category: "data"
 ---
