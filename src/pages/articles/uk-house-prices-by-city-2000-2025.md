@@ -140,3 +140,14 @@ The rankings measure changes in average transaction prices, not actual investmen
 A complete investment assessment should also consider rental income, operating expenses, financing, taxation, inflation and the timing of purchases and sales.
 
 Investors should therefore treat these results as an initial market screening tool rather than a definitive ranking of the best places to invest.
+
+## Explore Individual Property Markets
+
+National comparisons provide a useful overview, but individual cities can experience very different property market conditions.
+
+For a more detailed example, explore our [Coventry house price analysis](/articles/coventry-house-prices/), which examines 25 years of residential transaction data, historical trends and the different phases of property price growth.
+
+As we expand our research, we'll publish further city, regional and postcode-level comparisons across England and Wales.
+
+
+
