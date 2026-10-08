@@ -135,3 +135,5 @@ Over the 25 years from 2000 to 2025, the average recorded residential sale price
 But the journey between those two figures is just as important as the overall increase. Coventry experienced rapid growth, falling prices, periods of stagnation and renewed growth, demonstrating that property prices do not simply rise at a constant rate.
 
 For investors, looking at the underlying data can provide a much clearer picture of a local property market than relying on national headlines or short-term price movements.
+
+Explore more UK property market analysis and investment insights at [The Passive Property Investor](/).
