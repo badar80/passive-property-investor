@@ -258,3 +258,5 @@ However, the path was not smooth. The financial crisis, subsequent recovery and 
 For property investors and developers, these figures provide a useful starting point, but investment decisions require more detailed research into local property values, rental demand, financing costs and individual property characteristics.
 
 **The Passive Property Investor** uses historical housing market data alongside practical property investment experience to provide a more evidence-based view of the UK property market.
+
+How does Birmingham compare with nearby Coventry? Read our [Birmingham vs Coventry house price comparison (2000–2025)](/articles/birmingham-vs-coventry-house-prices/) to explore the differences in property prices and historical growth.
