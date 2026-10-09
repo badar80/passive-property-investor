@@ -40,7 +40,7 @@ The count is the number of qualifying sales in this dataset for each calendar ye
 ## Annual data
 
 | Year | Manchester mean price | Manchester transactions |
-|---||---:|---:|
+|---|---:|---:|
 | 2000 | £62,537 | 8,584 |
 | 2001 | £70,319 | 9,150 |
 | 2002 | £86,543 | 5,922 |

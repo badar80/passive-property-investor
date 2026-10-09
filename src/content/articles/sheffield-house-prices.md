@@ -40,7 +40,7 @@ The count is the number of qualifying sales in this dataset for each calendar ye
 ## Annual data
 
 | Year | Sheffield mean price | Sheffield transactions |
-|---||---:|---:|
+|---|---:|---:|
 | 2000 | £66,479 | 8,983 |
 | 2001 | £75,252 | 9,965 |
 | 2002 | £88,275 | 5,408 |

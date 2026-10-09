@@ -44,7 +44,7 @@ The price gap is the difference between the two annual mean sale prices, not a m
 ## Annual data
 
 | Year | Cambridge mean price | Cambridge transactions | Birmingham mean price | Birmingham transactions |
-|---||---:|---:||---:|---:|
+|---|---:|---:||---:|---:|
 | 2000 | £152,635 | 2,013 | £74,459 | 17,436 |
 | 2001 | £176,233 | 1,860 | £85,612 | 19,214 |
 | 2002 | £193,292 | 972 | £102,456 | 10,519 |

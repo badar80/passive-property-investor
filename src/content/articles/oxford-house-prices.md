@@ -40,7 +40,7 @@ The count is the number of qualifying sales in this dataset for each calendar ye
 ## Annual data
 
 | Year | Oxford mean price | Oxford transactions |
-|---||---:|---:|
+|---|---:|---:|
 | 2000 | £167,985 | 2,107 |
 | 2001 | £187,332 | 2,720 |
 | 2002 | £215,300 | 1,258 |

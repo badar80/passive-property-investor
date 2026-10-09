@@ -44,7 +44,7 @@ The price gap is the difference between the two annual mean sale prices, not a m
 ## Annual data
 
 | Year | Oxford mean price | Oxford transactions | Coventry mean price | Coventry transactions |
-|---||---:|---:||---:|---:|
+|---|---:|---:||---:|---:|
 | 2000 | £167,985 | 2,107 | £65,108 | 6,039 |
 | 2001 | £187,332 | 2,720 | £73,210 | 6,364 |
 | 2002 | £215,300 | 1,258 | £87,405 | 3,664 |
