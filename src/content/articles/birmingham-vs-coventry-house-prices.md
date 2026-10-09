@@ -54,7 +54,7 @@ They do not establish which city offered better investment returns, because rent
 
 ## Birmingham vs Coventry House Prices by Year (2000–2025)
 
-![Birmingham vs Coventry average house prices from 2000 to 2025](/images/birmingham-vs-coventry-house-prices-2000-2025.svg)
+<img src="/images/birmingham-vs-coventry-house-prices-2000-2025.svg" alt="Birmingham vs Coventry average house prices from 2000 to 2025" style="display:block; width:100%; max-width:100%; height:auto;" />
 
 The following table compares average recorded residential sale prices in the Birmingham and Coventry local authority districts for each year.
 
