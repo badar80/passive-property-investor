@@ -259,4 +259,9 @@ For property investors and developers, these figures provide a useful starting p
 
 **The Passive Property Investor** uses historical housing market data alongside practical property investment experience to provide a more evidence-based view of the UK property market.
 
-How does Birmingham compare with nearby Coventry? Read our [Birmingham vs Coventry house price comparison (2000–2025)](/articles/birmingham-vs-coventry-house-prices/) to explore the differences in property prices and historical growth.
+## Compare Birmingham with Other Midlands Cities
+
+Explore how Birmingham's property market compares with neighbouring cities between 2000 and 2025:
+
+- [Birmingham vs Coventry house prices (2000–2025)](/articles/birmingham-vs-coventry-house-prices/) — compare historical prices and long-term growth.
+- [Birmingham vs Leicester house prices (2000–2025)](/articles/birmingham-vs-leicester-house-prices/) — discover which city experienced stronger percentage growth.
