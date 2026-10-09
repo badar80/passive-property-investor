@@ -24,19 +24,43 @@ const articleCities = cities.filter(city =>
   article.id.toLowerCase().includes(city)
 );
 
+const isComparison = article.id.includes('-vs-');
+
 const relatedArticles = allArticles
   .filter(other => other.id !== article.id)
-  .map(other => ({
-    ...other,
-    score: articleCities.filter(city =>
+  .map(other => {
+    const otherCities = cities.filter(city =>
       other.id.toLowerCase().includes(city)
-    ).length
-  }))
+    );
+
+    const sharedCities = articleCities.filter(city =>
+      otherCities.includes(city)
+    ).length;
+
+    const otherIsComparison = other.id.includes('-vs-');
+    const isUKResearch = other.id.startsWith('uk-');
+
+    let score = sharedCities * 100;
+
+    if (sharedCities > 0 && otherIsComparison) {
+      score += 20;
+    }
+
+    if (isComparison === otherIsComparison) {
+      score += 10;
+    }
+
+    if (isUKResearch) {
+      score += 5;
+    }
+
+    return { ...other, score };
+  })
   .sort((a, b) =>
     b.score - a.score ||
     a.data.title.localeCompare(b.data.title)
   )
-  .slice(0, 4);
+  .slice(0, 12);
 const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://passivepropertyinvestor.co.uk');
 ---
 
@@ -53,7 +77,7 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 	<body>
 		<main>
 			<article>
-				<a href="/">← The Passive Property Investor</a>
+				<a href="/">Ã¢â€ Â The Passive Property Investor</a>
 
 				<h1>{article.data.title}</h1>
 
