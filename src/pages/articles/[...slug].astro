@@ -13,6 +13,30 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 
+const allArticles = await getCollection('articles');
+
+const cities = [
+  'coventry', 'birmingham', 'leicester', 'manchester',
+  'leeds', 'sheffield', 'oxford', 'cambridge'
+];
+
+const articleCities = cities.filter(city =>
+  article.id.toLowerCase().includes(city)
+);
+
+const relatedArticles = allArticles
+  .filter(other => other.id !== article.id)
+  .map(other => ({
+    ...other,
+    score: articleCities.filter(city =>
+      other.id.toLowerCase().includes(city)
+    ).length
+  }))
+  .sort((a, b) =>
+    b.score - a.score ||
+    a.data.title.localeCompare(b.data.title)
+  )
+  .slice(0, 4);
 const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://passivepropertyinvestor.co.uk');
 ---
 
@@ -43,7 +67,19 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 	<div class="article-content">
     <Content />
 </div>
-			</article>
+			<section class="related-articles">
+    <h2>Related Property Research</h2>
+    <ul>
+        {relatedArticles.map(related => (
+            <li>
+                <a href={`/articles/${related.id}/`}>
+                    {related.data.title}
+                </a>
+            </li>
+        ))}
+    </ul>
+</section>
+</article>
 		</main>
 	</body>
 </html>
@@ -134,4 +170,16 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 			font-size: 2.6rem;
 		}
 	}
+.related-articles {
+    margin-top: 70px;
+    padding-top: 30px;
+    border-top: 1px solid #dce5e2;
+}
+.related-articles li {
+    margin-bottom: 12px;
+}
+.related-articles a {
+    color: #0b6f5c;
+    font-weight: 600;
+}
 </style>
