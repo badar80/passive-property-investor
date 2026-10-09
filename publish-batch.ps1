@@ -40,7 +40,12 @@ if ($articles.Count -eq 0) {
 if ($LASTEXITCODE -ne 0) { throw "Import failed" }
 
 # Repair imported articles
-& powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\repair-articles.ps1" -Files $articles
+foreach ($article in $articles) {
+    & powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\repair-articles.ps1" -Files $article
+    if ($LASTEXITCODE -ne 0) {
+        throw "Article repair failed: $article"
+    }
+}
 if ($LASTEXITCODE -ne 0) { throw "Article repair failed" }
 
 # Build and validate website
@@ -54,6 +59,7 @@ if ($LASTEXITCODE -ne 0) {
 if ($LASTEXITCODE -ne 0) { throw "Publishing failed" }
 
 Write-Host "Batch published successfully!"
+
 
 
 
