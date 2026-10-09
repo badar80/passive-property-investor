@@ -81,3 +81,8 @@ The price gap is the difference between the two annual mean sale prices, not a m
 - Average prices are arithmetic means, not medians or repeat-sales indices; no inflation adjustment.
 - 2025 data may be affected by registration lag or later revisions.
 - This is descriptive historical analysis, not an investment forecast or valuation.
+
+## Further reading
+
+- [Manchester house prices: 2000–2025](/articles/manchester-house-prices/)
+- [Birmingham house prices: 2000–2025](/articles/birmingham-house-prices/)

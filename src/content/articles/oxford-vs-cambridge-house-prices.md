@@ -89,5 +89,5 @@ Historic price growth is one input into a property investment decision, but it d
 ## Further reading
 
 - [UK house prices by city (2000–2025)](/articles/uk-house-prices-by-city-2000-2025/)
-- [Birmingham vs Coventry house prices](/articles/birmingham-vs-coventry-house-prices/)
-- [Coventry vs Leicester house prices](/articles/coventry-vs-leicester-house-prices/)
+- [Oxford house prices: 2000–2025](/articles/oxford-house-prices/)
+- [Cambridge house prices: 2000–2025](/articles/cambridge-house-prices/)
