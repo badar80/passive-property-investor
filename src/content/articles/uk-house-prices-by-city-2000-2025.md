@@ -141,10 +141,22 @@ Investors should therefore treat these results as an initial market screening to
 
 ## Explore Individual Property Markets
 
-National comparisons provide a useful overview, but individual cities can experience very different property market conditions.
+Our national comparison highlights substantial differences in historical house price growth across England and Wales. However, national rankings are only a starting point for researching individual property markets.
 
-For a more detailed example, explore our [Coventry house price analysis](/articles/coventry-house-prices/), which examines 25 years of residential transaction data, historical trends and the different phases of property price growth.
+For more detailed analysis, explore our city-level research:
 
-As we expand our research, we'll publish further city, regional and postcode-level comparisons across England and Wales.
+### Birmingham House Prices: 2000–2025
 
+Our [Birmingham house price analysis](/articles/birmingham-house-prices/) examines 26 years of recorded property transactions, including the early-2000s housing boom, the financial crisis, the subsequent recovery and recent market trends.
 
+Average recorded residential sale prices in the Birmingham district increased from £74,458 in 2000 to £275,044 in 2025.
+
+### Coventry House Prices: 2000–2025
+
+Our [Coventry house price analysis](/articles/coventry-house-prices/) explores 25 years of historical property price changes, with charts illustrating different phases of the housing market.
+
+Average recorded residential sale prices in Coventry increased from £65,108 in 2000 to £254,514 in 2025.
+
+**Note:** These individual city studies use local authority district boundaries, whereas the national comparison uses HM Land Registry Town/City classifications. The figures are therefore not directly interchangeable.
+
+We'll continue expanding this research with additional city, regional and postcode-level comparisons across England and Wales.
