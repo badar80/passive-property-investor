@@ -62,6 +62,7 @@ The table below ranks 30 major towns and cities in England and Wales by the perc
 | 29 | Swindon | £102,759 | £319,016 | 210.4% |
 | 30 | Reading | £158,431 | £477,091 | 201.1% |
 
+
 *Source: HM Land Registry Price Paid Data. Figures are nominal arithmetic averages of qualifying residential transactions, grouped by the Land Registry Town/City field. The locations are not necessarily equivalent to official local authority boundaries. Rankings cover these 30 selected locations, not every UK city.*
 ## How We Calculated House Price Growth
 
