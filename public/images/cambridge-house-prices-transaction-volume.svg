@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 440" role="img" aria-label="Recorded transactions by year">
+<rect width="980" height="440" fill="#fff"/>
+<text x="105" y="35" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#142532">Recorded transactions by year</text>
+<text x="105" y="56" font-family="Arial,sans-serif" font-size="13" fill="#64748b">Count of transactions in the filtered extract</text>
+<line x1="105" x2="938" y1="362.0" y2="362.0" stroke="#e6edf0"/>
+<text x="93" y="367.0" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">-213</text>
+<line x1="105" x2="938" y1="290.2" y2="290.2" stroke="#e6edf0"/>
+<text x="93" y="295.2" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">502</text>
+<line x1="105" x2="938" y1="218.5" y2="218.5" stroke="#e6edf0"/>
+<text x="93" y="223.5" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">1k</text>
+<line x1="105" x2="938" y1="146.8" y2="146.8" stroke="#e6edf0"/>
+<text x="93" y="151.8" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">2k</text>
+<line x1="105" x2="938" y1="75.0" y2="75.0" stroke="#e6edf0"/>
+<text x="93" y="80.0" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">3k</text>
+<text x="105.0" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2000</text>
+<text x="271.6" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2005</text>
+<text x="438.2" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2010</text>
+<text x="604.8" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2015</text>
+<text x="771.4" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2020</text>
+<text x="938.0" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2025</text>
+<polyline fill="none" stroke="#0b7060" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" points="105.0,138.7 138.3,154.0 171.6,243.1 205.0,131.7 238.3,248.0 271.6,136.9 304.9,103.5 338.2,117.2 371.6,198.7 404.9,201.9 438.2,184.7 471.5,184.2 504.8,194.2 538.2,140.7 571.5,143.9 604.8,174.4 638.1,176.1 671.4,175.7 704.8,202.9 738.1,201.2 771.4,218.0 804.7,168.0 838.0,174.4 871.4,203.0 904.7,219.1 938.0,204.2"/>
+<circle cx="105.0" cy="138.7" r="4" fill="#0b7060"/>
+<circle cx="938.0" cy="204.2" r="4" fill="#0b7060"/>
+<line x1="105" x2="130" y1="422" y2="422" stroke="#0b7060" stroke-width="4"/>
+<text x="139" y="427" font-family="Arial" font-size="14" fill="#142532">Cambridge</text>
+</svg>

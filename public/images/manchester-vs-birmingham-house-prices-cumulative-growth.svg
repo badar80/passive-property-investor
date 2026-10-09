@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 440" role="img" aria-label="Cumulative change since 2000">
+<rect width="980" height="440" fill="#fff"/>
+<text x="105" y="35" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#142532">Cumulative change since 2000</text>
+<text x="105" y="56" font-family="Arial,sans-serif" font-size="13" fill="#64748b">2000 = 0%; based on annual mean sold prices</text>
+<line x1="105" x2="938" y1="362.0" y2="362.0" stroke="#e6edf0"/>
+<text x="93" y="367.0" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">-33%</text>
+<line x1="105" x2="938" y1="290.2" y2="290.2" stroke="#e6edf0"/>
+<text x="93" y="295.2" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">+79%</text>
+<line x1="105" x2="938" y1="218.5" y2="218.5" stroke="#e6edf0"/>
+<text x="93" y="223.5" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">+190%</text>
+<line x1="105" x2="938" y1="146.8" y2="146.8" stroke="#e6edf0"/>
+<text x="93" y="151.8" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">+302%</text>
+<line x1="105" x2="938" y1="75.0" y2="75.0" stroke="#e6edf0"/>
+<text x="93" y="80.0" text-anchor="end" font-family="Arial" font-size="12" fill="#64748b">+414%</text>
+<text x="105.0" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2000</text>
+<text x="271.6" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2005</text>
+<text x="438.2" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2010</text>
+<text x="604.8" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2015</text>
+<text x="771.4" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2020</text>
+<text x="938.0" y="387" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">2025</text>
+<polyline fill="none" stroke="#0b7060" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" points="105.0,340.7 138.3,332.7 171.6,316.0 205.0,305.7 238.3,289.2 271.6,273.3 304.9,255.6 338.2,245.3 371.6,255.6 404.9,259.2 438.2,254.5 471.5,256.1 504.8,253.7 538.2,250.4 571.5,245.9 604.8,236.4 638.1,225.9 671.4,206.4 704.8,194.5 738.1,186.1 771.4,160.5 804.7,136.4 838.0,122.2 871.4,118.1 904.7,112.9 938.0,103.5"/>
+<circle cx="105.0" cy="340.7" r="4" fill="#0b7060"/>
+<circle cx="938.0" cy="103.5" r="4" fill="#0b7060"/>
+<polyline fill="none" stroke="#c47b37" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" points="105.0,340.7 138.3,331.0 171.6,316.5 205.0,296.4 238.3,283.4 271.6,276.8 304.9,270.4 338.2,265.1 371.6,268.0 404.9,277.6 438.2,266.9 471.5,272.2 504.8,271.3 538.2,266.0 571.5,260.0 604.8,251.3 638.1,244.8 671.4,232.7 704.8,223.4 738.1,220.4 771.4,206.0 804.7,190.1 838.0,180.4 871.4,177.3 904.7,174.2 938.0,167.7"/>
+<circle cx="105.0" cy="340.7" r="4" fill="#c47b37"/>
+<circle cx="938.0" cy="167.7" r="4" fill="#c47b37"/>
+<line x1="105" x2="130" y1="422" y2="422" stroke="#0b7060" stroke-width="4"/>
+<text x="139" y="427" font-family="Arial" font-size="14" fill="#142532">Manchester</text>
+<line x1="390" x2="415" y1="422" y2="422" stroke="#c47b37" stroke-width="4"/>
+<text x="424" y="427" font-family="Arial" font-size="14" fill="#142532">Birmingham</text>
+</svg>
