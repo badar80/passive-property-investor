@@ -171,3 +171,5 @@ Historical capital appreciation is only one consideration. Rental income, financ
 Explore our [national house price comparison](/articles/uk-house-prices-by-city-2000-2025/) and [Birmingham property market research](/articles/birmingham-house-prices/) for further analysis.
 
 More independent UK property research is available at [The Passive Property Investor](/).
+
+For a direct comparison with Birmingham, read our [Birmingham vs Coventry house price analysis (2000–2025)](/articles/birmingham-vs-coventry-house-prices/).
