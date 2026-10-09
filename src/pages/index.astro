@@ -364,8 +364,18 @@ const articles = (await getCollection('articles'))
 	}
 
 	@media (max-width: 850px) {
-		nav {
-			display: none;
+		.nav {
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px 0;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 20px;
+}
 		}
 
 		.hero {
