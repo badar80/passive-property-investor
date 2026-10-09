@@ -36,12 +36,12 @@ if ($articles.Count -eq 0) {
 }
 
 # Import articles and graphs
-& .\import-articles.ps1 -ZipPath $ZipPath
-if (!$?) { throw "Import failed" }
+& powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\import-articles.ps1" -ZipPath $ZipPath
+if ($LASTEXITCODE -ne 0) { throw "Import failed" }
 
 # Repair imported articles
-& .\repair-articles.ps1 -Files $articles
-if (!$?) { throw "Article repair failed" }
+& powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\repair-articles.ps1" -Files $articles
+if ($LASTEXITCODE -ne 0) { throw "Article repair failed" }
 
 # Build and validate website
 npm.cmd run build
@@ -50,7 +50,11 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 # Publish to GitHub
-& .\publish.ps1
-if (!$?) { throw "Publishing failed" }
+& powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\publish.ps1"
+if ($LASTEXITCODE -ne 0) { throw "Publishing failed" }
 
 Write-Host "Batch published successfully!"
+
+
+
+

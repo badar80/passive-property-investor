@@ -1,4 +1,4 @@
-param(
+﻿param(
     [Parameter(Mandatory=$true)]
     [string]$ZipPath
 )
@@ -36,3 +36,5 @@ foreach ($folder in $folders) {
 Remove-Item $temp -Recurse -Force
 
 Write-Host "Import complete. Review files before publishing."
+
+
