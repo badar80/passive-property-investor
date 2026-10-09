@@ -85,9 +85,3 @@ Historic price growth is one input into a property investment decision, but it d
 - **Filters:** `PPDCategoryType = 'A'` and `PropertyType IN ('D','S','T','F')`.
 - **Metric:** unweighted arithmetic mean of sale prices for recorded transactions, nominal pounds, rounded for display.
 - **Caveats:** excludes other category/property types; annual changes may reflect transaction mix; figures are not inflation-adjusted or repeat-sales indices. The source extract should be checked for late data revisions.
-
-## Further reading
-
-- [UK house prices by city (2000–2025)](/articles/uk-house-prices-by-city-2000-2025/)
-- [Oxford house prices: 2000–2025](/articles/oxford-house-prices/)
-- [Cambridge house prices: 2000–2025](/articles/cambridge-house-prices/)
