@@ -44,7 +44,7 @@ The price gap is the difference between the two annual mean sale prices, not a m
 ## Annual data
 
 | Year | Sheffield mean price | Sheffield transactions | Leicester mean price | Leicester transactions |
-|---|---:|---:||---:|---:|
+|---|---|---|---|---|
 | 2000 | £66,479 | 8,983 | £57,715 | 5,156 |
 | 2001 | £75,252 | 9,965 | £65,440 | 5,597 |
 | 2002 | £88,275 | 5,408 | £84,332 | 2,929 |

@@ -40,7 +40,7 @@ The count is the number of qualifying sales in this dataset for each calendar ye
 ## Annual data
 
 | Year | Cambridge mean price | Cambridge transactions |
-|---|---:|---:|
+|---|---|---|
 | 2000 | £152,635 | 2,013 |
 | 2001 | £176,233 | 1,860 |
 | 2002 | £193,292 | 972 |

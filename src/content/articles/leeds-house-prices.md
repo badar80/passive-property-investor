@@ -40,7 +40,7 @@ The count is the number of qualifying sales in this dataset for each calendar ye
 ## Annual data
 
 | Year | Leeds mean price | Leeds transactions |
-|---|---:|---:|
+|---|---|---|
 | 2000 | £77,237 | 14,961 |
 | 2001 | £84,094 | 15,954 |
 | 2002 | £98,998 | 9,098 |

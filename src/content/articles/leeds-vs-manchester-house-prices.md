@@ -44,7 +44,7 @@ The price gap is the difference between the two annual mean sale prices, not a m
 ## Annual data
 
 | Year | Leeds mean price | Leeds transactions | Manchester mean price | Manchester transactions |
-|---|---:|---:||---:|---:|
+|---|---|---|---|---|
 | 2000 | £77,237 | 14,961 | £62,537 | 8,584 |
 | 2001 | £84,094 | 15,954 | £70,319 | 9,150 |
 | 2002 | £98,998 | 9,098 | £86,543 | 5,922 |
