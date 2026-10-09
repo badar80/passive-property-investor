@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="475.2pt" viewBox="0 0 864 475.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-09T19:56:47.843309</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 475.2 
+L 864 475.2 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 90.72 413.424 
+L 829.44 413.424 
+L 829.44 99.792 
+L 90.72 99.792 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #173b35" x="124.298182" y="431.542125" transform="rotate(-0 124.298182 431.542125)">2000</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #173b35" x="258.610909" y="431.542125" transform="rotate(-0 258.610909 431.542125)">2005</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #173b35" x="392.923636" y="431.542125" transform="rotate(-0 392.923636 431.542125)">2010</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #173b35" x="527.236364" y="431.542125" transform="rotate(-0 527.236364 431.542125)">2015</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #173b35" x="661.549091" y="431.542125" transform="rotate(-0 661.549091 431.542125)">2020</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #173b35" x="795.861818" y="431.542125" transform="rotate(-0 795.861818 431.542125)">2025</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 90.72 352.935438 
+L 829.44 352.935438 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #173b35" x="81.72" y="357.4945" transform="rotate(-0 81.72 357.4945)">£100k</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 90.72 291.230349 
+L 829.44 291.230349 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #173b35" x="81.72" y="295.789411" transform="rotate(-0 81.72 295.789411)">£150k</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 90.72 229.52526 
+L 829.44 229.52526 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #173b35" x="81.72" y="234.084323" transform="rotate(-0 81.72 234.084323)">£200k</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 90.72 167.820171 
+L 829.44 167.820171 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #173b35" x="81.72" y="172.379234" transform="rotate(-0 81.72 172.379234)">£250k</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 90.72 106.115083 
+L 829.44 106.115083 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #173b35" x="81.72" y="110.674145" transform="rotate(-0 81.72 110.674145)">£300k</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 124.298182 395.995445 
+L 151.160727 385.99658 
+L 178.023273 368.478394 
+L 204.885818 344.6334 
+L 231.748364 323.874266 
+L 258.610909 314.201068 
+L 285.473455 300.764945 
+L 312.336 295.130579 
+L 339.198545 302.354974 
+L 366.061091 309.285344 
+L 392.923636 303.640822 
+L 419.786182 308.018045 
+L 446.648727 304.98819 
+L 473.511273 295.33623 
+L 500.373818 284.89468 
+L 527.236364 270.703065 
+L 554.098909 258.757984 
+L 580.961455 244.357325 
+L 607.824 229.957307 
+L 634.686545 226.685111 
+L 661.549091 216.284409 
+L 688.411636 195.048875 
+L 715.274182 176.386664 
+L 742.136727 177.796292 
+L 768.999273 176.451541 
+L 795.861818 162.249621 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #0b7060; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 124.298182 399.168 
+L 151.160727 389.564578 
+L 178.023273 369.542486 
+L 204.885818 357.18482 
+L 231.748364 337.341081 
+L 258.610909 318.204333 
+L 285.473455 296.977943 
+L 312.336 284.546515 
+L 339.198545 296.938613 
+L 366.061091 301.228597 
+L 392.923636 295.639054 
+L 419.786182 297.572608 
+L 446.648727 294.657092 
+L 473.511273 290.699759 
+L 500.373818 285.23064 
+L 527.236364 273.834105 
+L 554.098909 261.200704 
+L 580.961455 237.829025 
+L 607.824 223.495032 
+L 634.686545 213.395587 
+L 661.549091 182.636514 
+L 688.411636 153.690953 
+L 715.274182 136.602024 
+L 742.136727 131.691694 
+L 768.999273 125.404661 
+L 795.861818 114.048 
+" clip-path="url(#p32a9d301c7)" style="fill: none; stroke: #173b35; stroke-width: 2.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 90.72 413.424 
+L 829.44 413.424 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173b35" x="90.72" y="71.792" transform="rotate(-0 90.72 71.792)">Average house prices</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_19">
+     <path d="M 101.52 115.510125 
+L 113.52 115.510125 
+L 125.52 115.510125 
+" style="fill: none; stroke: #0b7060; stroke-width: 3; stroke-linecap: square"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="135.12" y="119.710125" transform="rotate(-0 135.12 119.710125)">Coventry</text>
+    </g>
+    <g id="line2d_20">
+     <path d="M 213.673125 115.510125 
+L 225.673125 115.510125 
+L 237.673125 115.510125 
+" style="fill: none; stroke: #173b35; stroke-width: 2.7; stroke-linecap: square"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="247.273125" y="119.710125" transform="rotate(-0 247.273125 119.710125)">Manchester</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #73847e" x="90.72" y="35.64" transform="rotate(-0 90.72 35.64)">HM Land Registry Price Paid Data | District boundaries | 2000–2025</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p32a9d301c7">
+   <rect x="90.72" y="99.792" width="738.72" height="313.632"/>
+  </clipPath>
+ </defs>
+</svg>
