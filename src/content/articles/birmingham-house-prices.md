@@ -217,6 +217,38 @@ HM Land Registry data can also be revised as additional transactions are registe
 
 For further information, see the [HM Land Registry Price Paid Data guidance](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).
 
+## Frequently Asked Questions About Birmingham House Prices
+
+### What is the average house price in Birmingham?
+
+The average recorded residential transaction price in the Birmingham local authority district was **£275,044 in 2025**, based on our analysis of HM Land Registry Price Paid Data.
+
+This is the arithmetic mean of qualifying property sales, not the average value of every home in Birmingham.
+
+### How much have Birmingham house prices increased since 2000?
+
+Average recorded residential sale prices increased from **£74,458 in 2000 to £275,044 in 2025**, representing approximately **269.4% growth**.
+
+These figures are nominal and have not been adjusted for inflation.
+
+### Did Birmingham house prices fall during the 2008 financial crisis?
+
+Yes. The average recorded transaction price declined from **£162,060 in 2007 to £147,633 in 2009**, a reduction of approximately **8.9%**.
+
+The annual average remained below its 2007 level in 2012.
+
+### Are Birmingham house prices still rising?
+
+Our data shows that Birmingham's average recorded residential sale price increased from **£263,928 in 2023 to £275,044 in 2025**.
+
+However, this historical increase does not establish whether prices are currently rising in every part of Birmingham or across every property type.
+
+### Is Birmingham a good place to invest in property?
+
+Birmingham's historical price growth makes it a location worth researching, but past capital appreciation does not guarantee future returns.
+
+Investors should also consider rental yields, local demand, financing costs, property condition, taxation and the purchase price of individual properties.
+
 ## Final Thoughts
 
 Birmingham's recorded residential property transactions show substantial long-term increases in average sale prices between 2000 and 2025.
