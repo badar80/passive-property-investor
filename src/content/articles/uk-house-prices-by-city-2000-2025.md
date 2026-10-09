@@ -161,3 +161,10 @@ Average recorded residential sale prices in Coventry increased from £65,108 in 
 **Note:** These individual city studies use local authority district boundaries, whereas the national comparison uses HM Land Registry Town/City classifications. The figures are therefore not directly interchangeable.
 
 We'll continue expanding this research with additional city, regional and postcode-level comparisons across England and Wales.
+
+For a more detailed comparison of two major Midlands property markets, read our [Birmingham vs Coventry house price analysis (2000–2025)](/articles/birmingham-vs-coventry-house-prices/), including annual prices and cumulative growth.
+
+
+
+
+
