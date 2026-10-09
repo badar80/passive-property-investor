@@ -128,12 +128,46 @@ It is also important not to treat the Coventry-wide average as the expected perf
 | 2024 | £243,006 |
 | 2025 | £254,514 |
 
+## How Do Coventry House Prices Compare With Other UK Cities?
+
+Coventry's average recorded residential sale price increased by approximately **291% between 2000 and 2025**, based on transactions within the Coventry local authority district.
+
+But how does Coventry compare with Birmingham, Manchester, London and other locations?
+
+Our [UK house price growth rankings for 30 towns and cities](/articles/uk-house-prices-by-city-2000-2025/) compare average recorded transaction prices between 2000 and 2025, highlighting differences in historical growth across England and Wales.
+
+For a closer regional comparison, explore our [Birmingham house price analysis from 2000 to 2025](/articles/birmingham-house-prices/).
+
+Birmingham's average recorded residential sale price increased from £74,458 in 2000 to £275,044 in 2025, representing growth of approximately 269.4%.
+
+**Methodology note:** The Coventry and Birmingham individual articles use local authority district boundaries, whereas the national rankings use HM Land Registry Town/City classifications. These figures are not directly interchangeable.
+
+## Data Source and Methodology
+
+This analysis uses [HM Land Registry Price Paid Data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) for residential property transactions in England and Wales.
+
+The analysis includes:
+
+- Transactions within the Coventry local authority district.
+- Sales recorded between 2000 and 2025.
+- Detached, semi-detached, terraced properties and flats/maisonettes.
+- Standard Category A transactions.
+- Annual average transaction prices calculated using the arithmetic mean.
+
+The figures are nominal and have not been adjusted for inflation.
+
+They are not a repeat-sales or quality-adjusted house price index. Changes in the mix of properties sold can influence the annual averages.
+
 ## Conclusion
 
-Over the 25 years from 2000 to 2025, the average recorded residential sale price in Coventry increased from around £65,100 to £254,500 — a rise of approximately 291%.
+Between 2000 and 2025, Coventry's average recorded residential sale price increased from £65,108 to £254,514 — approximately **291% growth**.
 
-But the journey between those two figures is just as important as the overall increase. Coventry experienced rapid growth, falling prices, periods of stagnation and renewed growth, demonstrating that property prices do not simply rise at a constant rate.
+However, the historical data also reveals periods of falling prices, stagnation and renewed growth.
 
-For investors, looking at the underlying data can provide a much clearer picture of a local property market than relying on national headlines or short-term price movements.
+For property investors, this illustrates why understanding local housing market cycles is important when assessing potential investments.
 
-Explore more UK property market analysis and investment insights at [The Passive Property Investor](/).
+Historical capital appreciation is only one consideration. Rental income, financing costs, maintenance, taxation and the price paid for an individual property also affect investment returns.
+
+Explore our [national house price comparison](/articles/uk-house-prices-by-city-2000-2025/) and [Birmingham property market research](/articles/birmingham-house-prices/) for further analysis.
+
+More independent UK property research is available at [The Passive Property Investor](/).
