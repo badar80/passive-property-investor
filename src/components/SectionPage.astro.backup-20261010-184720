@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content';
+import videos from '../data/youtube-videos.json';
+interface Props {
+  section: 'investing' | 'landlording' | 'data' | 'resources' | 'about';
+}
+const { section } = Astro.props;
+const definitions = {
+  investing: {
+    title: 'Property Investing',
+    intro: 'Evidence-led research for UK property investors: compare locations, understand historical house-price movements and explore the data before making investment decisions.',
+    description: 'UK property investing research, historical house-price comparisons and data-led analysis from The Passive Property Investor.'
+  },
+  landlording: {
+    title: 'Landlording',
+    intro: 'Practical perspectives on owning and managing rental properties, including agents, tenants, maintenance and the day-to-day realities of being a landlord.',
+    description: 'UK landlord experience, property management topics and videos from The Passive Property Investor.'
+  },
+  data: {
+    title: 'UK Property Data',
+    intro: 'Explore historical house prices, city-by-city comparisons and local property trends using published UK housing transaction data.',
+    description: 'UK house-price research by city, postcode and location, including historical trends and property market comparisons.'
+  },
+  resources: {
+    title: 'Tools & Resources',
+    intro: 'Useful official sources for researching UK property, checking key records and understanding the information behind housing market decisions.',
+    description: 'Official UK property research tools and resources, including HM Land Registry, EPC registers and government guidance.'
+  },
+  about: {
+    title: 'About',
+    intro: 'The Passive Property Investor combines long-term property experience with data analysis to help readers understand UK housing markets more clearly.',
+    description: 'Learn about The Passive Property Investor, its research approach and property market analysis.'
+  }
+};
+const page = definitions[section];
+const allArticles = (await getCollection('articles')).sort((a,b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const selectedArticles = section === 'investing'
+  ? allArticles.filter(a => a.id.includes('-vs-') || a.id.startsWith('uk-'))
+  : section === 'data' ? allArticles : [];
+const selectedVideos = videos.filter(v => {
+  if (section === 'investing') return v.category === 'Property Investing';
+  if (section === 'landlording') return v.category === 'Landlording';
+  return false;
+}).slice(0,6);
+const resources = [
+  { title: 'HM Land Registry - Price Paid Data', url: 'https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads', description: 'Download historical property transaction prices for England and Wales.' },
+  { title: 'Search sold property prices', url: 'https://www.gov.uk/search-house-prices', description: 'Look up recorded sold prices in England and Wales.' },
+  { title: 'Find an Energy Performance Certificate', url: 'https://www.gov.uk/find-energy-certificate', description: 'Check EPC ratings and recommendations for properties.' },
+  { title: 'Private renting guidance', url: 'https://www.gov.uk/private-renting', description: 'Government information on landlord and tenant responsibilities in England.' },
+  { title: 'Planning applications', url: 'https://www.planningportal.co.uk/', description: 'Information about planning permission and the planning process.' }
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{page.title} | The Passive Property Investor</title>
+  <meta name="description" content={page.description} />
+  <link rel="canonical" href={`https://passivepropertyinvestor.co.uk/${section}/`} />
+</head>
+<body>
+<header><div class="wrap header-inner">
+  <a class="brand" href="/">The Passive Property Investor</a>
+  <nav aria-label="Main navigation">
+    <a href="/investing/" aria-current={section === 'investing' ? 'page' : undefined}>Property Investing</a>
+    <a href="/landlording/" aria-current={section === 'landlording' ? 'page' : undefined}>Landlording</a>
+    <a href="/data/" aria-current={section === 'data' ? 'page' : undefined}>UK Property Data</a>
+    <a href="/videos/">Videos</a>
+    <a href="/resources/" aria-current={section === 'resources' ? 'page' : undefined}>Tools &amp; Resources</a>
+    <a href="/about/" aria-current={section === 'about' ? 'page' : undefined}>About</a>
+  </nav>
+</div></header>
+<main class="wrap">
+  <section class="hero"><p class="eyebrow">THE PASSIVE PROPERTY INVESTOR</p><h1>{page.title}</h1><p class="intro">{page.intro}</p></section>
+  {section === 'investing' && <section class="intro-panel"><h2>Research before you invest</h2><p>Historical price movements can help you compare markets, but they do not guarantee future returns. Consider rental demand, financing, operating costs, taxes and property-specific risks alongside price trends.</p><p>Start with the city comparisons below, or browse the <a href="/data/">full research library</a>.</p></section>}
+  {section === 'landlording' && <section class="intro-panel"><h2>The practical side of property ownership</h2><p>Owning rental property involves much more than buying a house: tenant communication, repairs, compliance, cash flow and choosing managing agents all matter. Explore the videos below and visit <a href="/resources/">Tools &amp; Resources</a> for official guidance.</p><p>These are general observations, not legal advice. Rules vary across the UK and change over time.</p></section>}
+  {section === 'data' && <section class="intro-panel"><h2>How to use this research</h2><p>Compare historical prices between cities, explore postcode-level patterns and read the underlying analysis. Price Paid Data records completed transactions, not rental yields or current asking prices.</p></section>}
+  {section === 'about' && <section class="intro-panel"><h2>Property experience meets data analysis</h2><p>The Passive Property Investor draws on more than 25 years of experience in property and a technical background in data analysis. The aim is to make complex housing-market information understandable and useful to people researching UK property.</p><h2>How the research works</h2><p>Articles examine historical sold-price records, compare locations and visualise long-term patterns. Where data has limitations, it is important to distinguish what the numbers show from what they cannot establish.</p><h2>Explore the work</h2><p>Browse the <a href="/data/">UK Property Data</a> library, watch the <a href="/videos/">videos</a>, or explore <a href="/investing/">property investing research</a>.</p></section>}
+  {section === 'resources' && <section><h2>Official research resources</h2><div class="cards">{resources.map(item => <article class="card"><h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title} â†—</a></h3><p>{item.description}</p></article>)}</div><p class="note">External resources are provided for information. Check the latest official guidance before making decisions.</p></section>}
+  {selectedArticles.length > 0 && <section><h2>{section === 'data' ? 'All property research' : 'City comparisons and market research'}</h2><p class="section-intro">{selectedArticles.length} articles from the research library</p><div class="cards">{selectedArticles.map(article => <article class="card"><h3><a href={`/articles/${article.id}/`}>{article.data.title}</a></h3><p>{article.data.description}</p><a class="more" href={`/articles/${article.id}/`}>Read research â†’</a></article>)}</div></section>}
+  {(section === 'investing' || section === 'landlording') && <section><h2>Watch related videos</h2>{selectedVideos.length ? <div class="cards">{selectedVideos.map(video => <article class="card"><a href={video.url} target="_blank" rel="noopener noreferrer"><img class="thumb" src={video.thumbnail} alt={`Thumbnail for ${video.title}`} loading="lazy" /></a><h3><a href={video.url} target="_blank" rel="noopener noreferrer">{video.title} â†—</a></h3></article>)}</div> : <p>Browse the <a href="/videos/">full video library</a> for property research and practical insights.</p>}<p class="section-intro"><a href="/videos/">Browse all property videos â†’</a></p></section>}
+</main>
+<footer><div class="wrap">Â© {new Date().getFullYear()} The Passive Property Investor Â· <a href="/">Home</a> Â· <a href="/videos/">Videos</a></div></footer>
+</body>
+</html>
+<style>
+:global(*){box-sizing:border-box}:global(html){font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;color:#18202a;background:#fff}:global(body){margin:0;line-height:1.65}:global(a){color:#08715C}
+.wrap{max-width:1160px;margin:auto;padding-left:20px;padding-right:20px}
+header{border-bottom:1px solid #e7ebee;background:#fff}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:25px;min-height:76px;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}.brand{font-weight:800;color:#08715C;text-decoration:none;font-size:1.05rem}nav{display:flex;gap:17px;flex-wrap:wrap;font-size:.9rem}nav a{text-decoration:none;font-weight:600;color:#24372e}nav a:hover,nav a[aria-current="page"]{color:#08715C}
+.hero{padding:65px 0 35px;max-width:860px}.eyebrow{font-size:.8rem;letter-spacing:.1em;color:#08715C;font-weight:800}.hero h1{font-size:clamp(2.5rem,5vw,4.3rem);line-height:1.1;letter-spacing:-.04em;margin:15px 0 20px}.intro{font-size:1.18rem;color:#50605b}.intro-panel{max-width:860px;padding:12px 0 20px}.intro-panel p{color:#43544c;font-size:1.04rem}section{margin-bottom:65px}h2{font-size:1.8rem;line-height:1.2;margin:25px 0}.section-intro,.note{color:#66756d}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr));gap:20px}.card{border:1px solid #e1e9e4;border-radius:12px;padding:23px;background:#fff}.card h3{font-size:1.13rem;line-height:1.4;margin:0 0 12px}.card h3 a{text-decoration:none}.card h3 a:hover{text-decoration:underline}.card p{color:#52625a}.more{font-weight:700;text-decoration:none}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:7px;margin-bottom:14px}footer{border-top:1px solid #e7ebee;padding:25px 0;color:#61716a;font-size:.9rem}
+</style>

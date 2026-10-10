@@ -12,7 +12,7 @@ const articles = (await getCollection('articles'))
 		<meta name="viewport" content="width=device-width" />
 		<meta
 			name="description"			
-            content="Independent UK house-price research by Dr Badar Ahmed, PhD-qualified physicist and data scientist with 12+ years of experience."
+            content="Independent UK property market research, house price trends and investment analysis for property investors, developers and professionals."
 		/>		
 		<title>UK Property Investment Research & Data | The Passive Property Investor</title>
 		<link rel="canonical" href="https://passivepropertyinvestor.co.uk/" />
@@ -27,7 +27,6 @@ const articles = (await getCollection('articles'))
 					<a href="/investing/">Property Investing</a>
 					<a href="/landlording/">Landlording</a>
 					<a href="/data/">UK Property Data</a>
-					<a href="/videos/">Videos</a>
 					<a href="/resources/">Tools & Resources</a>
 					<a href="/about/">About</a>
 				</nav>
@@ -37,17 +36,16 @@ const articles = (await getCollection('articles'))
 		<main>
 			<section class="hero">
 				<div class="container hero-content">
-					<p class="eyebrow">PROPERTY   DATA   EXPERIENCE</p>
+					<p class="eyebrow">PROPERTY • DATA • EXPERIENCE</p>
 
 <h1>UK Property Investment Research & House Price Data</h1>
 
 <p class="intro">
-    Independent UK house-price research by Dr Badar Ahmed, combining
-    advanced data analysis with over 25 years of property investing experience.
-    Explore historical transactions, long-term trends and city comparisons
-    to make better-informed property decisions.
+    Independent property market research, historical price trends
+    and investment analysis for investors, developers and property
+    professionals. Drawing on over 25 years of UK property experience
+    and real housing market data to help you make informed decisions.
 </p>
-<p class="research-credentials"><strong>PhD-qualified physicist</strong> &middot; <strong>MSc Computational Finance</strong> &middot; <strong>12+ years in data science and engineering</strong> &middot; <a href="/about/">About the researcher &rarr;</a></p>
 
 					<div class="buttons">
 						<a class="button primary" href="/data/">Explore Property Data</a>
@@ -63,33 +61,33 @@ const articles = (await getCollection('articles'))
 
 					<div class="cards">
 						<article>
-							<div class="icon"> </div>
+							<div class="icon">⌂</div>
 							<h3>Property Investing</h3>
 							<p>
 								Research, analysis and practical guides to help you make
 								better-informed property investment decisions.
 							</p>
-							<a href="/investing/">Explore investing  </a>
+							<a href="/investing/">Explore investing →</a>
 						</article>
 
 						<article>
-							<div class="icon"> </div>
+							<div class="icon">▥</div>
 							<h3>UK Property Data</h3>
 							<p>
 								House prices, locations, trends and comparisons using real
 								UK housing-market data.
 							</p>
-							<a href="/data/">Explore the data  </a>
+							<a href="/data/">Explore the data →</a>
 						</article>
 
 						<article>
-							<div class="icon"> </div>
+							<div class="icon">✓</div>
 							<h3>Real Landlord Experience</h3>
 							<p>
 								Lessons from more than two decades of tenants, agents,
 								mortgages, maintenance and managing rental property.
 							</p>
-							<a href="/landlording/">Landlord guides  </a>
+							<a href="/landlording/">Landlord guides →</a>
 						</article>
 					</div>
 				</div>
@@ -109,7 +107,7 @@ const articles = (await getCollection('articles'))
 								</h3>
 								<p>{article.data.description}</p>
 								<a class="read-more" href={`/articles/${article.id}/`}>
-									Read analysis  
+									Read analysis →
 								</a>
 							</article>
 						))}
@@ -236,9 +234,9 @@ const articles = (await getCollection('articles'))
 		font-size: 1.28rem;
 		color: #53616b;
 		margin: 30px 0 36px;
-	}    .research-credentials { max-width:850px; color:#465e55; font-size:.95rem; line-height:1.8; margin:0 0 28px; }
-    .research-credentials a { color:#08715C; font-weight:700; }
-    .buttons {
+	}
+
+	.buttons {
 		display: flex;
 		gap: 12px;
 		flex-wrap: wrap;

@@ -17,7 +17,7 @@ const description = 'Browse original UK housing market research, landlord experi
       .wrap{max-width:1180px;margin:auto;padding:0 22px}
       header{background:white;border-bottom:1px solid #dfe8e2} header .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-top:19px;padding-bottom:19px;flex-wrap:wrap}
       .brand{font-weight:800;text-decoration:none;font-size:1.1rem;color:#08715C}
-      nav{display:flex;gap:18px;flex-wrap:wrap;font-size:.91rem} nav a{text-decoration:none;font-weight:600}
+      nav{display:flex;gap:22px} nav a{text-decoration:none;font-weight:600}
       .hero{padding:54px 0 24px} .eyebrow{font-weight:700;color:#08715C;text-transform:uppercase;letter-spacing:.09em;font-size:.8rem}
       h1{font-size:clamp(2rem,4vw,3.2rem);line-height:1.12;margin:12px 0} .intro{color:#52645b;max-width:760px;line-height:1.65}
       .tools{display:flex;flex-wrap:wrap;gap:12px;margin:25px 0 22px}
@@ -30,66 +30,43 @@ const description = 'Browse original UK housing market research, landlord experi
       .play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:#08715C;color:white;border-radius:10px;padding:9px 17px;font-size:1.15rem}
       .details{padding:17px} .category{font-size:.74rem;font-weight:800;color:#08715C;text-transform:uppercase;letter-spacing:.05em}
       h2{font-size:1.02rem;line-height:1.45;margin:8px 0 0} h2 a{text-decoration:none} h2 a:hover{text-decoration:underline}
-      .load-more-wrap{text-align:center;margin:-35px 0 65px}#loadMore{background:#08715C;color:white;border:0;border-radius:9px;padding:15px 32px;font:inherit;font-weight:700;cursor:pointer}#loadMore:hover{background:#065846}#loadMore[hidden]{display:none}.empty{display:none;padding:40px 0;color:#52645b} footer{border-top:1px solid #dfe8e2;padding:24px 0;color:#52645b}
+      .empty{display:none;padding:40px 0;color:#52645b} footer{border-top:1px solid #dfe8e2;padding:24px 0;color:#52645b}
     </style>
   </head>
   <body>
-    <header><div class="wrap"><a class="brand" href="/">The Passive Property Investor</a><nav aria-label="Main navigation"><a href="/investing/">Property Investing</a><a href="/landlording/">Landlording</a><a href="/data/">UK Property Data</a><a href="/videos/" aria-current="page">Videos</a><a href="/resources/">Tools &amp; Resources</a><a href="/about/">About</a></nav></div></header>
+    <header><div class="wrap"><a class="brand" href="/">The Passive Property Investor</a><nav aria-label="Main navigation"><a href="/">Home</a><a href="/videos/" aria-current="page">Videos</a><a href="https://www.youtube.com/@ThePassivePropertyInvestor" target="_blank" rel="noopener noreferrer">YouTube ↗</a></nav></div></header>
     <main class="wrap">
       <section class="hero"><div class="eyebrow">Research and real-world experience</div><h1>Property videos</h1><p class="intro">Explore UK house-price analysis, property investment strategies and practical lessons from managing rental properties. Watch each video on YouTube.</p></section>
-      <div class="tools"><input id="search" type="search" placeholder="Search video titles " aria-label="Search video titles"/><select id="category" aria-label="Filter videos by topic"><option value="all">All topics</option><option>Market Research</option><option>Property Investing</option><option>Landlording</option><option>Shorts</option></select></div>
+      <div class="tools"><input id="search" type="search" placeholder="Search video titles…" aria-label="Search video titles"/><select id="category" aria-label="Filter videos by topic"><option value="all">All topics</option><option>Market Research</option><option>Property Investing</option><option>Landlording</option><option>Shorts</option></select></div>
       <p class="count" id="count">{videos.length} videos</p>
       <div class="grid" id="grid">
         {videos.map(video => <article class="video" data-title={video.title.toLowerCase()} data-category={video.category}>
-          <a class="thumb" href={video.url} target="_blank" rel="noopener noreferrer" aria-label={`Watch ${video.title} on YouTube`}><img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async"/><span class="play" aria-hidden="true"> </span></a>
+          <a class="thumb" href={video.url} target="_blank" rel="noopener noreferrer" aria-label={`Watch ${video.title} on YouTube`}><img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async"/><span class="play" aria-hidden="true">▶</span></a>
           <div class="details"><div class="category">{video.category}</div><h2><a href={video.url} target="_blank" rel="noopener noreferrer">{video.title}</a></h2></div>
         </article>)}
-      </div><div class="load-more-wrap"><button id="loadMore" type="button">Load More Videos</button></div><p class="empty" id="empty">No videos match your search.</p>
+      </div><p class="empty" id="empty">No videos match your search.</p>
     </main>
-    <footer><div class="wrap">  {new Date().getFullYear()} The Passive Property Investor</div></footer>
+    <footer><div class="wrap">© {new Date().getFullYear()} The Passive Property Investor</div></footer>
     <script>
       const search = document.querySelector('#search');
       const category = document.querySelector('#category');
       const cards = [...document.querySelectorAll('.video')];
       const count = document.querySelector('#count');
       const empty = document.querySelector('#empty');
-      const loadMore = document.querySelector('#loadMore');
-      const pageSize = 12;
-      let visibleLimit = pageSize;
-
-      function filterVideos(reset = true) {
-        if (reset) visibleLimit = pageSize;
-
+      function filterVideos() {
         const query = search.value.toLocaleLowerCase().trim();
         const selected = category.value;
-
-        const matches = cards.filter(card =>
-          card.dataset.title.includes(query) &&
-          (selected === 'all' || card.dataset.category === selected)
-        );
-
+        let visible = 0;
         cards.forEach(card => {
-          card.hidden = true;
+          const show = card.dataset.title.includes(query) && (selected === 'all' || card.dataset.category === selected);
+          card.hidden = !show;
+          if (show) visible++;
         });
-
-        matches.slice(0, visibleLimit).forEach(card => {
-          card.hidden = false;
-        });
-
-        const displayed = Math.min(visibleLimit, matches.length);
-
-        count.textContent = `${displayed} of ${matches.length} matching videos`;
-        empty.style.display = matches.length ? 'none' : 'block';
-        loadMore.hidden = displayed >= matches.length;
+        count.textContent = `${visible} of ${cards.length} videos`;
+        empty.style.display = visible ? 'none' : 'block';
       }
-
-      loadMore.addEventListener('click', () => {
-        visibleLimit += pageSize;
-        filterVideos(false);
-      });
       search.addEventListener('input', filterVideos);
       category.addEventListener('change', filterVideos);
-      filterVideos();
     </script>
     <style>.video[hidden]{display:none}</style>
   </body>

@@ -1,6 +1,5 @@
 ---
 import { getCollection, render } from 'astro:content';
-import youtubeVideos from '../../data/youtube-videos.json';
 
 export async function getStaticPaths() {
 	const articles = await getCollection('articles');
@@ -62,17 +61,6 @@ const relatedArticles = allArticles
     a.data.title.localeCompare(b.data.title)
   )
   .slice(0, 6);
-const matchingCities = ['coventry', 'birmingham', 'leicester', 'manchester', 'leeds', 'sheffield', 'oxford', 'cambridge'];
-const articleCityNames = matchingCities.filter(city => article.id.toLowerCase().includes(city));
-const relatedVideoMatches = youtubeVideos
-  .filter(video => video.category === 'Market Research' && articleCityNames.length > 0)
-  .map(video => ({
-    ...video,
-    matchScore: articleCityNames.filter(city => video.title.toLowerCase().includes(city)).length,
-  }))
-  .filter(video => video.matchScore > 0)
-  .sort((a, b) => b.matchScore - a.matchScore || a.title.localeCompare(b.title))
-  .slice(0, 3);
 const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://passivepropertyinvestor.co.uk');
 ---
 
@@ -89,7 +77,7 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 	<body>
 		<main>
 			<article>
-				<nav class="article-navigation" aria-label="Article navigation"><a href="/">  Home</a><a href="/data/">UK Property Data</a><a href="/videos/">Videos</a><a href="/investing/">Property Investing</a></nav>
+				<a href="/">&#8592; The Passive Property Investor</a>
 
 				<h1>{article.data.title}</h1>
 
@@ -100,25 +88,10 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 						year: 'numeric'
 					})}
 				</p>
-	<div class="author-credentials"><strong>Research by <a href="/about/">Dr Badar Ahmed</a></strong><span>PhD Physics / Engineering &middot; MSc Computational Finance &middot; Data scientist and property investor</span></div>
-<div class="article-content">
+	<div class="article-content">
     <Content />
 </div>
-			{relatedVideoMatches.length > 0 && (
-  <section class="related-videos" aria-label="Related property videos">
-    <h2>Related Property Videos</h2>
-    <div class="related-video-grid">
-      {relatedVideoMatches.map(video => (
-        <a class="related-video" href={video.url} target="_blank" rel="noopener noreferrer">
-          <img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async" />
-          <span>{video.title}  </span>
-        </a>
-      ))}
-    </div>
-    <p><a href="/videos/">Browse all property videos  </a></p>
-  </section>
-)}
-<section class="related-articles">
+			<section class="related-articles">
     <h2>Related Property Research</h2>
     <ul>
         {relatedArticles.map(related => (
@@ -134,15 +107,7 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 		</main>
 	</body>
 </html>
-<style>  .author-credentials { border-left:3px solid #08715C; background:#f3f8f5; padding:15px 20px; margin:0 0 35px; display:flex; flex-direction:column; gap:5px; font-size:.93rem; color:#45594f; }
-  .author-credentials a { color:#08715C; }
-  .article-navigation { display:flex; flex-wrap:wrap; gap:12px 24px; margin-bottom:45px; }
-  .article-navigation a { color:#08715C; text-decoration:none; font-weight:700; font-size:.92rem; }
-  .related-video-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:18px; }
-  .related-video { display:block; border:1px solid #e1e8e5; border-radius:10px; overflow:hidden; text-decoration:none; color:#08715C; font-weight:700; }
-  .related-video img { display:block; width:100%; aspect-ratio:16/9; object-fit:cover; }
-  .related-video span { display:block; padding:12px; }
-  .related-videos { margin:45px 0; }
+<style>
 	:global(*) {
 		box-sizing: border-box;
 	}

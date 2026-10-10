@@ -89,7 +89,7 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 	<body>
 		<main>
 			<article>
-				<nav class="article-navigation" aria-label="Article navigation"><a href="/">  Home</a><a href="/data/">UK Property Data</a><a href="/videos/">Videos</a><a href="/investing/">Property Investing</a></nav>
+				<nav class="article-navigation" aria-label="Article navigation"><a href="/">Ã¢â€ Â Home</a><a href="/data/">UK Property Data</a><a href="/videos/">Videos</a><a href="/investing/">Property Investing</a></nav>
 
 				<h1>{article.data.title}</h1>
 
@@ -111,11 +111,11 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
       {relatedVideoMatches.map(video => (
         <a class="related-video" href={video.url} target="_blank" rel="noopener noreferrer">
           <img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async" />
-          <span>{video.title}  </span>
+          <span>{video.title} Ã¢â€ â€”</span>
         </a>
       ))}
     </div>
-    <p><a href="/videos/">Browse all property videos  </a></p>
+    <p><a href="/videos/">Browse all property videos Ã¢â€ â€™</a></p>
   </section>
 )}
 <section class="related-articles">

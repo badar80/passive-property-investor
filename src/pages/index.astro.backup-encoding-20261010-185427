@@ -37,7 +37,7 @@ const articles = (await getCollection('articles'))
 		<main>
 			<section class="hero">
 				<div class="container hero-content">
-					<p class="eyebrow">PROPERTY   DATA   EXPERIENCE</p>
+					<p class="eyebrow">PROPERTY • DATA • EXPERIENCE</p>
 
 <h1>UK Property Investment Research & House Price Data</h1>
 
@@ -63,33 +63,33 @@ const articles = (await getCollection('articles'))
 
 					<div class="cards">
 						<article>
-							<div class="icon"> </div>
+							<div class="icon">⌂</div>
 							<h3>Property Investing</h3>
 							<p>
 								Research, analysis and practical guides to help you make
 								better-informed property investment decisions.
 							</p>
-							<a href="/investing/">Explore investing  </a>
+							<a href="/investing/">Explore investing →</a>
 						</article>
 
 						<article>
-							<div class="icon"> </div>
+							<div class="icon">▥</div>
 							<h3>UK Property Data</h3>
 							<p>
 								House prices, locations, trends and comparisons using real
 								UK housing-market data.
 							</p>
-							<a href="/data/">Explore the data  </a>
+							<a href="/data/">Explore the data →</a>
 						</article>
 
 						<article>
-							<div class="icon"> </div>
+							<div class="icon">✓</div>
 							<h3>Real Landlord Experience</h3>
 							<p>
 								Lessons from more than two decades of tenants, agents,
 								mortgages, maintenance and managing rental property.
 							</p>
-							<a href="/landlording/">Landlord guides  </a>
+							<a href="/landlording/">Landlord guides →</a>
 						</article>
 					</div>
 				</div>
@@ -109,7 +109,7 @@ const articles = (await getCollection('articles'))
 								</h3>
 								<p>{article.data.description}</p>
 								<a class="read-more" href={`/articles/${article.id}/`}>
-									Read analysis  
+									Read analysis →
 								</a>
 							</article>
 						))}
