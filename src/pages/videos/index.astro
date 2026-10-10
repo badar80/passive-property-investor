@@ -30,7 +30,7 @@ const description = 'Browse original UK housing market research, landlord experi
       .play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:#08715C;color:white;border-radius:10px;padding:9px 17px;font-size:1.15rem}
       .details{padding:17px} .category{font-size:.74rem;font-weight:800;color:#08715C;text-transform:uppercase;letter-spacing:.05em}
       h2{font-size:1.02rem;line-height:1.45;margin:8px 0 0} h2 a{text-decoration:none} h2 a:hover{text-decoration:underline}
-      .empty{display:none;padding:40px 0;color:#52645b} footer{border-top:1px solid #dfe8e2;padding:24px 0;color:#52645b}
+      .load-more-wrap{text-align:center;margin:-35px 0 65px}#loadMore{background:#08715C;color:white;border:0;border-radius:9px;padding:15px 32px;font:inherit;font-weight:700;cursor:pointer}#loadMore:hover{background:#065846}#loadMore[hidden]{display:none}.empty{display:none;padding:40px 0;color:#52645b} footer{border-top:1px solid #dfe8e2;padding:24px 0;color:#52645b}
     </style>
   </head>
   <body>
@@ -44,7 +44,7 @@ const description = 'Browse original UK housing market research, landlord experi
           <a class="thumb" href={video.url} target="_blank" rel="noopener noreferrer" aria-label={`Watch ${video.title} on YouTube`}><img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async"/><span class="play" aria-hidden="true">▶</span></a>
           <div class="details"><div class="category">{video.category}</div><h2><a href={video.url} target="_blank" rel="noopener noreferrer">{video.title}</a></h2></div>
         </article>)}
-      </div><p class="empty" id="empty">No videos match your search.</p>
+      </div><div class="load-more-wrap"><button id="loadMore" type="button">Load More Videos</button></div><p class="empty" id="empty">No videos match your search.</p>
     </main>
     <footer><div class="wrap">© {new Date().getFullYear()} The Passive Property Investor</div></footer>
     <script>
@@ -53,20 +53,43 @@ const description = 'Browse original UK housing market research, landlord experi
       const cards = [...document.querySelectorAll('.video')];
       const count = document.querySelector('#count');
       const empty = document.querySelector('#empty');
-      function filterVideos() {
+      const loadMore = document.querySelector('#loadMore');
+      const pageSize = 12;
+      let visibleLimit = pageSize;
+
+      function filterVideos(reset = true) {
+        if (reset) visibleLimit = pageSize;
+
         const query = search.value.toLocaleLowerCase().trim();
         const selected = category.value;
-        let visible = 0;
+
+        const matches = cards.filter(card =>
+          card.dataset.title.includes(query) &&
+          (selected === 'all' || card.dataset.category === selected)
+        );
+
         cards.forEach(card => {
-          const show = card.dataset.title.includes(query) && (selected === 'all' || card.dataset.category === selected);
-          card.hidden = !show;
-          if (show) visible++;
+          card.hidden = true;
         });
-        count.textContent = `${visible} of ${cards.length} videos`;
-        empty.style.display = visible ? 'none' : 'block';
+
+        matches.slice(0, visibleLimit).forEach(card => {
+          card.hidden = false;
+        });
+
+        const displayed = Math.min(visibleLimit, matches.length);
+
+        count.textContent = `${displayed} of ${matches.length} matching videos`;
+        empty.style.display = matches.length ? 'none' : 'block';
+        loadMore.hidden = displayed >= matches.length;
       }
+
+      loadMore.addEventListener('click', () => {
+        visibleLimit += pageSize;
+        filterVideos(false);
+      });
       search.addEventListener('input', filterVideos);
       category.addEventListener('change', filterVideos);
+      filterVideos();
     </script>
     <style>.video[hidden]{display:none}</style>
   </body>
