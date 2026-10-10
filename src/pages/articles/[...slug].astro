@@ -100,7 +100,8 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 						year: 'numeric'
 					})}
 				</p>
-	<div class="article-content">
+	<div class="author-credentials"><strong>Research by <a href="/about/">Dr Badar Ahmed</a></strong><span>PhD Physics / Engineering &middot; MSc Computational Finance &middot; Data scientist and property investor</span></div>
+<div class="article-content">
     <Content />
 </div>
 			{relatedVideoMatches.length > 0 && (
@@ -133,7 +134,8 @@ const canonicalURL = new URL(`/articles/${article.id}/`, Astro.site ?? 'https://
 		</main>
 	</body>
 </html>
-<style>
+<style>  .author-credentials { border-left:3px solid #08715C; background:#f3f8f5; padding:15px 20px; margin:0 0 35px; display:flex; flex-direction:column; gap:5px; font-size:.93rem; color:#45594f; }
+  .author-credentials a { color:#08715C; }
   .article-navigation { display:flex; flex-wrap:wrap; gap:12px 24px; margin-bottom:45px; }
   .article-navigation a { color:#08715C; text-decoration:none; font-weight:700; font-size:.92rem; }
   .related-video-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:18px; }
