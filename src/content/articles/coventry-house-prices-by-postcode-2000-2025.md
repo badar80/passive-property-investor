@@ -67,7 +67,7 @@ For anyone researching Coventry property investment, postcode-level growth is a 
 - **Geography:** postcode districts CV1, CV2, CV3, CV4, CV5, CV6 and CV7. **These postcode districts do not exactly match Coventry City Council's boundary**; notably CV7 includes locations outside the city.
 - **Period:** calendar years **2000 and 2025** for endpoint comparisons, with annual trend data from 2000 through 2025. The available export also contains partial 2026 observations, which are excluded.
 - **All-property averages:** calculated as total sale value divided by the number of transactions across detached, semi-detached, terraced and flat/maisonette records, using transaction counts and category means from the export.
-- **Terraced medians:** annual median sold prices for property type T, as supplied by the SQL export. The percentage change is `(2025 median / 2000 median âˆ’ 1) Ã— 100`.
+- **Terraced medians:** annual median sold prices for property type T, as supplied by the SQL export. The percentage change is calculated as ((2025 median / 2000 median) - 1) * 100.
 - **Limitations:** no adjustment for inflation, transaction composition, property quality or repeat sales; these are **nominal** figures. The export begins in 2000, so it does not support a 1995–2025 claim. Results depend on the underlying reporting view's filtering and coverage.
 
 *Research by The Passive Property Investor. This is historical data analysis, not investment advice.*
