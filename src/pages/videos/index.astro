@@ -27,10 +27,41 @@ const description = 'Browse original UK housing market research, landlord experi
       .video{background:white;border:1px solid #e0e9e2;border-radius:13px;overflow:hidden;box-shadow:0 2px 7px #102c1a08;display:flex;flex-direction:column}
       .thumb{display:block;position:relative;aspect-ratio:16/9;background:#e9efea}
       .thumb img{width:100%;height:100%;object-fit:cover;display:block}
-      .play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:#08715C;color:white;border-radius:10px;padding:9px 17px;font-size:1.15rem}
+      
       .details{padding:17px} .category{font-size:.74rem;font-weight:800;color:#08715C;text-transform:uppercase;letter-spacing:.05em}
       h2{font-size:1.02rem;line-height:1.45;margin:8px 0 0} h2 a{text-decoration:none} h2 a:hover{text-decoration:underline}
       .load-more-wrap{text-align:center;margin:-35px 0 65px}#loadMore{background:#08715C;color:white;border:0;border-radius:9px;padding:15px 32px;font:inherit;font-weight:700;cursor:pointer}#loadMore:hover{background:#065846}#loadMore[hidden]{display:none}.empty{display:none;padding:40px 0;color:#52645b} footer{border-top:1px solid #dfe8e2;padding:24px 0;color:#52645b}
+    
+      .thumb::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 58px;
+        height: 40px;
+        background: #08715C;
+        border-radius: 11px;
+        pointer-events: none;
+        transition: background .2s ease, transform .2s ease;
+      }
+      .thumb::before {
+        content: "";
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-35%, -50%);
+        border-top: 10px solid transparent;
+        border-bottom: 10px solid transparent;
+        border-left: 16px solid white;
+        z-index: 2;
+        pointer-events: none;
+      }
+      .thumb:hover::after {
+        background: #065846;
+        transform: translate(-50%, -50%) scale(1.08);
+      }
+
     </style>
   </head>
   <body>
