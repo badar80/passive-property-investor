@@ -1,0 +1,79 @@
+---
+const socials = [
+  { name: 'YouTube', url: 'https://www.youtube.com/@thepassivepropertyinvestor', label: 'Full property research videos' },
+  { name: 'TikTok', url: 'https://www.tiktok.com/@passivepropinvestor', label: 'Short property insights' },
+  { name: 'Instagram', url: 'https://www.instagram.com/the_passive_property_investor', label: 'Reels and property research' },
+  { name: 'Facebook', url: 'https://www.facebook.com/profile.php?id=61578920472913', label: 'Videos and updates' }
+];
+
+const links = [
+  { title: 'Explore Property Research', description: 'UK house prices, trends and data', url: '/data/' },
+  { title: 'Watch All My Videos', description: 'Browse the YouTube video library', url: '/videos/' },
+  { title: 'Property Investing', description: 'Investing research and analysis', url: '/investing/' },
+  { title: 'Landlord Resources', description: 'Practical property management insights', url: '/landlording/' },
+  { title: 'About Me', description: 'My background and research approach', url: '/about/' }
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#08715C" />
+  <meta name="description" content="Explore UK property research, videos, articles and social channels from The Passive Property Investor." />
+  <link rel="canonical" href="https://passivepropertyinvestor.co.uk/links/" />
+  <title>Links | The Passive Property Investor</title>
+  <style>
+    :root { font-family: system-ui, -apple-system, Segoe UI, sans-serif; color: #173a32; background: #f4f7f5; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { max-width: 590px; margin: auto; padding: 42px 20px 60px; text-align: center; }
+    .logo { width: 68px; height: 68px; margin: auto; border-radius: 50%; background: #08715C; color: white; display: grid; place-items: center; font-size: 30px; font-weight: 800; }
+    h1 { font-size: clamp(1.6rem, 5vw, 2.1rem); margin: 18px 0 8px; }
+    .intro { color: #536b62; line-height: 1.6; margin-bottom: 28px; }
+    h2 { margin: 32px 0 15px; font-size: 1.15rem; }
+    .link { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid #dce6e0; border-radius: 14px; padding: 17px; margin: 12px 0; box-shadow: 0 2px 8px #102f2210; transition: transform .15s, border-color .15s; }
+    .link:hover, .link:focus-visible { transform: translateY(-2px); border-color: #08715C; }
+    .link strong { display: block; font-size: 1.02rem; }
+    .link span { display: block; font-size: .86rem; color: #5a7168; margin-top: 4px; }
+    .featured { background: #08715C; color: white; border-color: #08715C; }
+    .featured span { color: #e2f2eb; }
+    .socials { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .socials .link { margin: 0; }
+    footer { margin-top: 35px; font-size: .82rem; color: #5a7168; }
+    footer a { color: #08715C; }
+    @media(max-width: 380px) { .socials { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="logo" aria-hidden="true">P</div>
+    <h1>The Passive Property Investor</h1>
+    <p class="intro">UK property investing through data, research and real-world experience. Explore the analysis, watch the videos and discover the numbers behind the market.</p>
+
+    <nav aria-label="Research and resources">
+      {links.map((link, i) => (
+        <a class:list={['link', {featured: i === 0}]} href={link.url}>
+          <strong>{link.title} →</strong>
+          <span>{link.description}</span>
+        </a>
+      ))}
+    </nav>
+
+    <h2>Follow the Research</h2>
+    <nav class="socials" aria-label="Social media profiles">
+      {socials.map((social) => (
+        <a class="link" href={social.url} target="_blank" rel="noopener noreferrer">
+          <strong>{social.name} ↗</strong>
+          <span>{social.label}</span>
+        </a>
+      ))}
+    </nav>
+
+    <footer>
+      <p>Independent UK property research by Dr Badar Ahmed.</p>
+      <a href="/">Visit the main website</a>
+    </footer>
+  </main>
+</body>
+</html>
