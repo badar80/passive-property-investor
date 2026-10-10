@@ -63,7 +63,7 @@ const articles = (await getCollection('articles'))
 
 					<div class="cards">
 						<article>
-							<div class="icon"> </div>
+							
 							<h3>Property Investing</h3>
 							<p>
 								Research, analysis and practical guides to help you make
@@ -73,7 +73,7 @@ const articles = (await getCollection('articles'))
 						</article>
 
 						<article>
-							<div class="icon"> </div>
+							
 							<h3>UK Property Data</h3>
 							<p>
 								House prices, locations, trends and comparisons using real
@@ -83,7 +83,7 @@ const articles = (await getCollection('articles'))
 						</article>
 
 						<article>
-							<div class="icon"> </div>
+							
 							<h3>Real Landlord Experience</h3>
 							<p>
 								Lessons from more than two decades of tenants, agents,
@@ -397,4 +397,22 @@ nav {
 			flex-direction: column;
 		}
 	}
+
+/* Homepage feature cards */
+.why .cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 22px;
+}
+
+.why .cards article {
+    min-width: 0;
+    padding: 30px;
+}
+
+@media (max-width: 850px) {
+    .why .cards {
+        grid-template-columns: 1fr;
+    }
+}
 </style>
