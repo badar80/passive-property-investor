@@ -34,14 +34,14 @@ const description = 'Browse original UK housing market research, landlord experi
     </style>
   </head>
   <body>
-    <header><div class="wrap"><a class="brand" href="/">The Passive Property Investor</a><nav aria-label="Main navigation"><a href="/investing/">Property Investing</a><a href="/landlording/">Landlording</a><a href="/data/">UK Property Data</a><a href="/videos/" aria-current="page">Videos</a><a href="/resources/">Tools &amp; Resources</a><a href="/about/">About</a></nav></div></header>
+    <header><div class="wrap"><a class="brand" href="/">The Passive Property Investor</a><nav aria-label="Main navigation"><a href="/investing/">Property Investing</a><a href="/landlording/">Landlording</a><a href="/data/">UK Property Data</a><a href="/videos/" aria-current="page">Videos</a><a href="/resources/">Tools &amp; Resources</a><a href="/links/">Links</a><a href="/about/">About</a></nav></div></header>
     <main class="wrap">
       <section class="hero"><div class="eyebrow">Research and real-world experience</div><h1>Property videos</h1><p class="intro">Explore UK house-price analysis, property investment strategies and practical lessons from managing rental properties. Watch each video on YouTube.</p></section>
       <div class="tools"><input id="search" type="search" placeholder="Search video titles " aria-label="Search video titles"/><select id="category" aria-label="Filter videos by topic"><option value="all">All topics</option><option>Market Research</option><option>Property Investing</option><option>Landlording</option><option>Shorts</option></select></div>
       <p class="count" id="count">{videos.length} videos</p>
       <div class="grid" id="grid">
         {videos.map(video => <article class="video" data-title={video.title.toLowerCase()} data-category={video.category}>
-          <a class="thumb" href={video.url} target="_blank" rel="noopener noreferrer" aria-label={`Watch ${video.title} on YouTube`}><img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async"/><span class="play" aria-hidden="true"> </span></a>
+          <a class="thumb" href={video.url} target="_blank" rel="noopener noreferrer" aria-label={`Watch ${video.title} on YouTube`}><img src={video.thumbnail} alt={`Thumbnail: ${video.title}`} loading="lazy" decoding="async"/></a>
           <div class="details"><div class="category">{video.category}</div><h2><a href={video.url} target="_blank" rel="noopener noreferrer">{video.title}</a></h2></div>
         </article>)}
       </div><div class="load-more-wrap"><button id="loadMore" type="button">Load More Videos</button></div><p class="empty" id="empty">No videos match your search.</p>
