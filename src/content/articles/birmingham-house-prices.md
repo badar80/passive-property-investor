@@ -5,7 +5,7 @@ pubDate: 2026-10-09
 category: data
 ---
 
-Birmingham's average recorded residential sale price increased from ** 74,458 in 2000 to  275,044 in 2025**, a rise of approximately **269.4%** over 25 years.
+Birmingham's average recorded residential sale price increased from **£74,458 in 2000 to  £275,044 in 2025**, a rise of approximately **269.4%** over 25 years.
 
 Using HM Land Registry Price Paid Data, we analysed residential property transactions across the Birmingham local authority district to examine how average sale prices changed through economic booms, the financial crisis, the subsequent recovery and more recent market conditions.
 
@@ -17,11 +17,11 @@ These figures provide a historical perspective for property investors, developer
 
 ![Birmingham average residential sale prices from 2000 to 2025](/images/birmingham-house-prices-2000-2025.svg)
 
-Birmingham's average recorded transaction price rose from  74,458 in 2000 to  275,044 in 2025.
+Birmingham's average recorded transaction price rose from  £74,458 in 2000 to  £275,044 in 2025.
 
 That represents:
 
-- ** 200,586** increase in average transaction price.
+- **£200,586** increase in average transaction price.
 - **269.4%** cumulative growth.
 - Approximately **5.4% annualised growth**, calculated from the two endpoint averages.
 
@@ -33,7 +33,7 @@ The market experienced rapid increases in the early 2000s, a downturn around the
 
 ![Birmingham house prices during the pre-financial-crisis period, 2000 to 2007](/images/birmingham-house-prices-2000-2007.svg)
 
-Between 2000 and 2007, Birmingham's average recorded residential sale price increased from ** 74,458 to  162,060**.
+Between 2000 and 2007, Birmingham's average recorded residential sale price increased from **£74,458 to  £162,060**.
 
 This represents growth of approximately **117.7%** in seven years.
 
@@ -53,15 +53,15 @@ The global financial crisis interrupted Birmingham's earlier price growth.
 
 Average recorded transaction prices were:
 
-- **2008:**  158,672
-- **2009:**  147,633
-- **2010:**  159,939
-- **2011:**  153,793
-- **2012:**  154,875
+- **2008:**£158,672
+- **2009:**£147,633
+- **2010:**£159,939
+- **2011:**£153,793
+- **2012:**£154,875
 
 The average fell approximately **7.0% between 2008 and 2009**.
 
-By 2012, the annual average remained below the 2007 figure of  162,060.
+By 2012, the annual average remained below the 2007 figure of  £162,060.
 
 Transaction volumes also fell substantially compared with the years immediately preceding the financial crisis.
 
@@ -73,7 +73,7 @@ For investors, the period demonstrates that residential property markets can exp
 
 ![Birmingham average residential sale prices from 2013 to 2022](/images/birmingham-house-prices-2013-2022.svg)
 
-Between 2013 and 2022, Birmingham's average recorded residential transaction price increased from ** 161,088 to  260,314**.
+Between 2013 and 2022, Birmingham's average recorded residential transaction price increased from **£161,088 to  £260,314**.
 
 That represents growth of approximately **61.6%**.
 
@@ -81,9 +81,9 @@ The annual figures show a relatively steady upward trend through much of the 201
 
 Average recorded prices then increased more quickly between 2020 and 2022:
 
-- **2020:**  230,642
-- **2021:**  249,102
-- **2022:**  260,314
+- **2020:**£230,642
+- **2021:**£249,102
+- **2022:**£260,314
 
 The pandemic-era housing market was influenced by changing housing preferences, government policy and unusually low borrowing costs during parts of the period.
 
@@ -99,9 +99,9 @@ More recent figures show continued, but slower, increases in average recorded tr
 
 | Year | Average Sale Price |
 |---|---:|
-| 2023 |  263,928 |
-| 2024 |  267,442 |
-| 2025 |  275,044 |
+| 2023 |  £263,928 |
+| 2024 |  £267,442 |
+| 2025 |  £275,044 |
 
 Between 2023 and 2025, Birmingham's average recorded transaction price increased approximately **4.2%**.
 
@@ -115,32 +115,32 @@ The following table shows the annual average recorded residential sale price and
 
 | Year | Sales | Average Sale Price |
 |---|---:|---:|
-| 2000 | 17,436 |  74,458 |
-| 2001 | 19,214 |  85,611 |
-| 2002 | 10,519 |  102,456 |
-| 2003 | 19,875 |  125,800 |
-| 2004 | 9,833 |  140,834 |
-| 2005 | 17,116 |  148,548 |
-| 2006 | 20,263 |  155,928 |
-| 2007 | 19,762 |  162,060 |
-| 2008 | 10,722 |  158,672 |
-| 2009 | 8,686 |  147,633 |
-| 2010 | 9,279 |  159,939 |
-| 2011 | 8,850 |  153,793 |
-| 2012 | 8,774 |  154,875 |
-| 2013 | 10,273 |  161,088 |
-| 2014 | 12,334 |  168,005 |
-| 2015 | 12,596 |  178,038 |
-| 2016 | 13,110 |  185,665 |
-| 2017 | 12,833 |  199,664 |
-| 2018 | 13,162 |  210,425 |
-| 2019 | 12,229 |  213,930 |
-| 2020 | 9,776 |  230,642 |
-| 2021 | 13,130 |  249,102 |
-| 2022 | 11,821 |  260,314 |
-| 2023 | 8,935 |  263,928 |
-| 2024 | 9,323 |  267,442 |
-| 2025 | 9,942 |  275,044 |
+| 2000 | 17,436 |  £74,458 |
+| 2001 | 19,214 |  £85,611 |
+| 2002 | 10,519 |  £102,456 |
+| 2003 | 19,875 |  £125,800 |
+| 2004 | 9,833 |  £140,834 |
+| 2005 | 17,116 |  £148,548 |
+| 2006 | 20,263 |  £155,928 |
+| 2007 | 19,762 |  £162,060 |
+| 2008 | 10,722 |  £158,672 |
+| 2009 | 8,686 |  £147,633 |
+| 2010 | 9,279 |  £159,939 |
+| 2011 | 8,850 |  £153,793 |
+| 2012 | 8,774 |  £154,875 |
+| 2013 | 10,273 |  £161,088 |
+| 2014 | 12,334 |  £168,005 |
+| 2015 | 12,596 |  £178,038 |
+| 2016 | 13,110 |  £185,665 |
+| 2017 | 12,833 |  £199,664 |
+| 2018 | 13,162 |  £210,425 |
+| 2019 | 12,229 |  £213,930 |
+| 2020 | 9,776 |  £230,642 |
+| 2021 | 13,130 |  £249,102 |
+| 2022 | 11,821 |  £260,314 |
+| 2023 | 8,935 |  £263,928 |
+| 2024 | 9,323 |  £267,442 |
+| 2025 | 9,942 |  £275,044 |
 
 *Source: HM Land Registry Price Paid Data, filtered and analysed for the Birmingham district.*
 
@@ -221,25 +221,25 @@ For further information, see the [HM Land Registry Price Paid Data guidance](htt
 
 ### What is the average house price in Birmingham?
 
-The average recorded residential transaction price in the Birmingham local authority district was ** 275,044 in 2025**, based on our analysis of HM Land Registry Price Paid Data.
+The average recorded residential transaction price in the Birmingham local authority district was **£275,044 in 2025**, based on our analysis of HM Land Registry Price Paid Data.
 
 This is the arithmetic mean of qualifying property sales, not the average value of every home in Birmingham.
 
 ### How much have Birmingham house prices increased since 2000?
 
-Average recorded residential sale prices increased from ** 74,458 in 2000 to  275,044 in 2025**, representing approximately **269.4% growth**.
+Average recorded residential sale prices increased from **£74,458 in 2000 to  £275,044 in 2025**, representing approximately **269.4% growth**.
 
 These figures are nominal and have not been adjusted for inflation.
 
 ### Did Birmingham house prices fall during the 2008 financial crisis?
 
-Yes. The average recorded transaction price declined from ** 162,060 in 2007 to  147,633 in 2009**, a reduction of approximately **8.9%**.
+Yes. The average recorded transaction price declined from **£162,060 in 2007 to  £147,633 in 2009**, a reduction of approximately **8.9%**.
 
 The annual average remained below its 2007 level in 2012.
 
 ### Are Birmingham house prices still rising?
 
-Our data shows that Birmingham's average recorded residential sale price increased from ** 263,928 in 2023 to  275,044 in 2025**.
+Our data shows that Birmingham's average recorded residential sale price increased from **£263,928 in 2023 to  £275,044 in 2025**.
 
 However, this historical increase does not establish whether prices are currently rising in every part of Birmingham or across every property type.
 

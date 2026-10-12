@@ -5,7 +5,7 @@ pubDate: 2026-10-10
 category: data
 ---
 
-# Coventry House Prices by Postcode: Which Areas Grew Fastest (2000 2025)?
+## Coventry House Prices by Postcode: Which Areas Grew Fastest (2000 2025)?
 
 Which Coventry postcode districts experienced the greatest growth in sold prices over the past 25 years? Analysis of HM Land Registry Price Paid transactions across **CV1 CV7** produces a surprising result: **CV2 ranks first when we compare the average prices of all homes sold in 2000 and 2025.** But when we focus on the *median price of terraced houses*, **CV1 takes the lead**.
 
@@ -17,15 +17,15 @@ That difference matters. A postcode's average selling price can rise partly beca
 
 | Postcode district | Average in 2000 | Average in 2025 | Change |
 |---|---:|---:|---:|
-| CV2 |  53,340 |  214,503 | +302.1% |
-| CV1 |  46,312 |  178,291 | +285.0% |
-| CV6 |  56,118 |  214,901 | +282.9% |
-| CV3 |  74,326 |  266,239 | +258.2% |
-| CV5 |  82,106 |  280,431 | +241.5% |
-| CV4 |  99,764 |  288,917 | +189.6% |
-| CV7 |  131,209 |  359,671 | +174.1% |
+| CV2 |  £53,340 |  £214,503 | +302.1% |
+| CV1 |  £46,312 |  £178,291 | +285.0% |
+| CV6 |  £56,118 |  £214,901 | +282.9% |
+| CV3 |  £74,326 |  £266,239 | +258.2% |
+| CV5 |  £82,106 |  £280,431 | +241.5% |
+| CV4 |  £99,764 |  £288,917 | +189.6% |
+| CV7 |  £131,209 |  £359,671 | +174.1% |
 
-**CV2's average sold price rose from approximately  53,340 to  214,503, an increase of 302.1%.** By comparison, CV7 recorded the highest average sold price in 2025, approximately  359,671, but the smallest percentage increase across these seven postcode districts (174.1%). This does **not** establish that individual CV2 homes appreciated faster than individual CV7 homes: transaction mix and local housing stock differ.
+**CV2's average sold price rose from approximately  £53,340 to  £214,503, an increase of 302.1%.** By comparison, CV7 recorded the highest average sold price in 2025, approximately  £359,671, but the smallest percentage increase across these seven postcode districts (174.1%). This does **not** establish that individual CV2 homes appreciated faster than individual CV7 homes: transaction mix and local housing stock differ.
 
 ## How did prices change over time?
 
@@ -41,15 +41,15 @@ A more focused comparison looks only at **terraced properties**, using the **med
 
 | Postcode district | Terraced median, 2000 | Terraced median, 2025 | Change |
 |---|---:|---:|---:|
-| CV1 |  36,000 |  161,000 | +347.2% |
-| CV4 |  50,000 |  214,500 | +329.0% |
-| CV6 |  45,000 |  190,000 | +322.2% |
-| CV7 |  50,000 |  210,435 | +320.9% |
-| CV2 |  49,000 |  205,000 | +318.4% |
-| CV3 |  54,950 |  209,960 | +282.1% |
-| CV5 |  62,000 |  230,000 | +271.0% |
+| CV1 |  £36,000 |  £161,000 | +347.2% |
+| CV4 |  £50,000 |  £214,500 | +329.0% |
+| CV6 |  £45,000 |  £190,000 | +322.2% |
+| CV7 |  £50,000 |  £210,435 | +320.9% |
+| CV2 |  £49,000 |  £205,000 | +318.4% |
+| CV3 |  £54,950 |  £209,960 | +282.1% |
+| CV5 |  £62,000 |  £230,000 | +271.0% |
 
-**CV1 ranks first in this comparison**, with its annual median terraced transaction price increasing from  36,000 in 2000 to  161,000 in 2025 (+347.2%). CV2, which topped the all-property average ranking, is fifth for terraced median growth (+318.4%).
+**CV1 ranks first in this comparison**, with its annual median terraced transaction price increasing from  £36,000 in 2000 to  £161,000 in 2025 (+347.2%). CV2, which topped the all-property average ranking, is fifth for terraced median growth (+318.4%).
 
 This is the most useful finding in the research: **the postcode you call the  best performer  depends on what you measure.**
 

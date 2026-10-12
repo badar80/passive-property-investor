@@ -13,8 +13,8 @@ Using **HM Land Registry Price Paid Data**, this analysis compares annual averag
 
 | Measure | Birmingham | Leicester |
 |---|---:|---:|
-| Average sale price, 2000 |  74,459 |  57,715 |
-| Average sale price, 2025 |  275,044 |  255,869 |
+| Average sale price, 2000 |  £74,459 |  £57,715 |
+| Average sale price, 2025 |  £275,044 |  £255,869 |
 | Nominal growth, 2000 2025 | 269.4% | 343.3% |
 | Number of recorded sales in 2025 | 9,942 | 2,360 |
 
@@ -24,7 +24,7 @@ Using **HM Land Registry Price Paid Data**, this analysis compares annual averag
 
 ![Birmingham vs Leicester average house prices from 2000 to 2025](/images/birmingham-vs-leicester-average-house-prices-2000-2025.svg)
 
-Birmingham began the period with a higher average recorded price ( 74,459) than Leicester ( 57,715). By 2025, Birmingham averaged  275,044 and Leicester  255,869. The difference in 2025 was ** 19,175**, with Birmingham higher.
+Birmingham began the period with a higher average recorded price ( £74,459) than Leicester ( £57,715). By 2025, Birmingham averaged  £275,044 and Leicester  £255,869. The difference in 2025 was ** 19,175**, with Birmingham higher.
 
 These are averages of properties sold in each calendar year. The mix of detached houses, terraces, flats and other property types can vary from year to year, influencing the figures.
 
@@ -50,32 +50,32 @@ This chart subtracts Leicester's annual average price from Birmingham's. Positiv
 
 | Year | Birmingham | Leicester |
 |---|---:|---:|
-| 2000 |  74,459 |  57,715 |
-| 2001 |  85,612 |  65,440 |
-| 2002 |  102,456 |  84,332 |
-| 2003 |  125,801 |  105,760 |
-| 2004 |  140,834 |  127,699 |
-| 2005 |  148,549 |  132,810 |
-| 2006 |  155,928 |  136,619 |
-| 2007 |  162,060 |  145,321 |
-| 2008 |  158,672 |  144,660 |
-| 2009 |  147,633 |  137,224 |
-| 2010 |  159,940 |  138,476 |
-| 2011 |  153,793 |  139,229 |
-| 2012 |  154,875 |  137,471 |
-| 2013 |  161,089 |  139,303 |
-| 2014 |  168,006 |  146,597 |
-| 2015 |  178,038 |  154,770 |
-| 2016 |  185,666 |  165,903 |
-| 2017 |  199,664 |  177,251 |
-| 2018 |  210,425 |  193,091 |
-| 2019 |  213,931 |  196,958 |
-| 2020 |  230,642 |  212,518 |
-| 2021 |  249,102 |  235,027 |
-| 2022 |  260,315 |  246,719 |
-| 2023 |  263,928 |  250,264 |
-| 2024 |  267,442 |  254,403 |
-| 2025 |  275,044 |  255,869 |
+| 2000 |  £74,459 |  £57,715 |
+| 2001 |  £85,612 |  £65,440 |
+| 2002 |  £102,456 |  £84,332 |
+| 2003 |  £125,801 |  £105,760 |
+| 2004 |  £140,834 |  £127,699 |
+| 2005 |  £148,549 |  £132,810 |
+| 2006 |  £155,928 |  £136,619 |
+| 2007 |  £162,060 |  £145,321 |
+| 2008 |  £158,672 |  £144,660 |
+| 2009 |  £147,633 |  £137,224 |
+| 2010 |  £159,940 |  £138,476 |
+| 2011 |  £153,793 |  £139,229 |
+| 2012 |  £154,875 |  £137,471 |
+| 2013 |  £161,089 |  £139,303 |
+| 2014 |  £168,006 |  £146,597 |
+| 2015 |  £178,038 |  £154,770 |
+| 2016 |  £185,666 |  £165,903 |
+| 2017 |  £199,664 |  £177,251 |
+| 2018 |  £210,425 |  £193,091 |
+| 2019 |  £213,931 |  £196,958 |
+| 2020 |  £230,642 |  £212,518 |
+| 2021 |  £249,102 |  £235,027 |
+| 2022 |  £260,315 |  £246,719 |
+| 2023 |  £263,928 |  £250,264 |
+| 2024 |  £267,442 |  £254,403 |
+| 2025 |  £275,044 |  £255,869 |
 
 ## What does this mean for property investors?
 
@@ -120,4 +120,4 @@ All prices are **nominal** (not inflation-adjusted). New-build and existing-home
 
 ## Conclusion: Birmingham vs Leicester
 
-From 2000 to 2025, **Leicester showed stronger percentage growth in annual average recorded sale prices**, outperforming the other district by approximately **73.9 percentage points**. Birmingham's average sale price in 2025 was  275,044, compared with  255,869 in Leicester. These results provide historical context, but a sound property investment decision requires more granular local evidence and an assessment of costs and rental income.
+From 2000 to 2025, **Leicester showed stronger percentage growth in annual average recorded sale prices**, outperforming the other district by approximately **73.9 percentage points**. Birmingham's average sale price in 2025 was  £275,044, compared with  £255,869 in Leicester. These results provide historical context, but a sound property investment decision requires more granular local evidence and an assessment of costs and rental income.

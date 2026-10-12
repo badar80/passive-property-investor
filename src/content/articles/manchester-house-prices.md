@@ -5,13 +5,13 @@ pubDate: 2026-10-09
 category: data
 ---
 
-# Manchester House Prices: 2000 2025 Data Analysis
+## Manchester House Prices: 2000 2025 Data Analysis
 
 Explore Manchester average sold house prices, annual changes and long-term growth from 2000 to 2025. This analysis uses annual district-level transaction counts and arithmetic mean prices from the supplied filtered Land Registry export.
 
 ## Key findings
 
-In **Manchester**, the mean recorded sale price was ** 62,537 in 2000** and ** 293,572 in 2025**. That is a **369.4%** change across the period. The 2025 annual mean was **+3.2%** relative to 2024. There were **4,894** qualifying transactions in the 2025 extract.
+In **Manchester**, the mean recorded sale price was **£62,537 in 2000** and **£293,572 in 2025**. That is a **369.4%** change across the period. The 2025 annual mean was **+3.2%** relative to 2024. There were **4,894** qualifying transactions in the 2025 extract.
 
 ## Average sold prices
 
@@ -41,32 +41,32 @@ The count is the number of qualifying sales in this dataset for each calendar ye
 
 | Year | Manchester mean price | Manchester transactions |
 |---|---|---|
-| 2000 |  62,537 | 8,584 |
-| 2001 |  70,319 | 9,150 |
-| 2002 |  86,543 | 5,922 |
-| 2003 |  96,557 | 12,304 |
-| 2004 |  112,636 | 6,377 |
-| 2005 |  128,143 | 11,427 |
-| 2006 |  145,343 | 13,562 |
-| 2007 |  155,416 | 12,489 |
-| 2008 |  145,375 | 5,894 |
-| 2009 |  141,898 | 4,666 |
-| 2010 |  146,428 | 5,108 |
-| 2011 |  144,861 | 4,579 |
-| 2012 |  147,223 | 4,440 |
-| 2013 |  150,430 | 5,139 |
-| 2014 |  154,862 | 6,447 |
-| 2015 |  164,096 | 7,074 |
-| 2016 |  174,333 | 7,315 |
-| 2017 |  193,271 | 6,731 |
-| 2018 |  204,886 | 6,253 |
-| 2019 |  213,070 | 5,716 |
-| 2020 |  237,994 | 5,575 |
-| 2021 |  261,449 | 6,732 |
-| 2022 |  275,296 | 6,024 |
-| 2023 |  279,275 | 4,536 |
-| 2024 |  284,370 | 4,881 |
-| 2025 |  293,572 | 4,894 |
+| 2000 |  £62,537 | 8,584 |
+| 2001 |  £70,319 | 9,150 |
+| 2002 |  £86,543 | 5,922 |
+| 2003 |  £96,557 | 12,304 |
+| 2004 |  £112,636 | 6,377 |
+| 2005 |  £128,143 | 11,427 |
+| 2006 |  £145,343 | 13,562 |
+| 2007 |  £155,416 | 12,489 |
+| 2008 |  £145,375 | 5,894 |
+| 2009 |  £141,898 | 4,666 |
+| 2010 |  £146,428 | 5,108 |
+| 2011 |  £144,861 | 4,579 |
+| 2012 |  £147,223 | 4,440 |
+| 2013 |  £150,430 | 5,139 |
+| 2014 |  £154,862 | 6,447 |
+| 2015 |  £164,096 | 7,074 |
+| 2016 |  £174,333 | 7,315 |
+| 2017 |  £193,271 | 6,731 |
+| 2018 |  £204,886 | 6,253 |
+| 2019 |  £213,070 | 5,716 |
+| 2020 |  £237,994 | 5,575 |
+| 2021 |  £261,449 | 6,732 |
+| 2022 |  £275,296 | 6,024 |
+| 2023 |  £279,275 | 4,536 |
+| 2024 |  £284,370 | 4,881 |
+| 2025 |  £293,572 | 4,894 |
 
 ## Methodology and limitations
 

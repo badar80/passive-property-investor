@@ -5,7 +5,7 @@ pubDate: "2026-10-10"
 category: "data"
 ---
 
-# Where Are Britain's Million-Pound Homes?
+## Where Are Britain's Million-Pound Homes?
 
 **Where are Britain's million-pound homes actually being bought?**
 

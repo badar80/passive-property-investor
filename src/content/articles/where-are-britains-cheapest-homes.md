@@ -5,7 +5,7 @@ pubDate: 2026-10-10
 category: "data"
 ---
 
-# Where Are Britain's Cheapest Homes? A 25-Year Analysis of Sales Below £100,000
+## Where Are Britain's Cheapest Homes? A 25-Year Analysis of Sales Below £100,000
 
 *Data-led analysis of HM Land Registry Price Paid transactions in England and Wales, 2000–2025. Research by Dr Badar Ahmed, The Passive Property Investor.*
 

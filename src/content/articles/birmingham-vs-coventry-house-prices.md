@@ -6,7 +6,7 @@ pubDate: 2026-10-09
 category: "data"
 ---
 
-# Birmingham vs Coventry House Prices: 2000 2025
+## Birmingham vs Coventry House Prices: 2000 2025
 
 Which city experienced stronger house price growth over the past 25 years   Birmingham or Coventry?
 
@@ -14,8 +14,8 @@ Using HM Land Registry Price Paid Data, we analysed residential property transac
 
 The results reveal an interesting difference.
 
-- **Birmingham:** Average recorded sale prices increased from  74,458 in 2000 to  275,044 in 2025   growth of approximately 269.4%.
-- **Coventry:** Average recorded sale prices increased from  65,108 in 2000 to  254,514 in 2025   growth of approximately 290.9%.
+- **Birmingham:** Average recorded sale prices increased from  £74,458 in 2000 to  £275,044 in 2025   growth of approximately 269.4%.
+- **Coventry:** Average recorded sale prices increased from  £65,108 in 2000 to  £254,514 in 2025   growth of approximately 290.9%.
 
 Although Birmingham had higher average transaction prices in both years, **Coventry experienced stronger percentage growth** over the 25-year period.
 
@@ -30,9 +30,9 @@ The table below compares average recorded residential sale prices in Birmingham 
 
 | Measure | Birmingham | Coventry |
 |---|---:|---:|
-| Average sale price in 2000 |  74,458 |  65,108 |
-| Average sale price in 2025 |  275,044 |  254,514 |
-| Increase in average price |  200,586 |  189,406 |
+| Average sale price in 2000 |  £74,458 |  £65,108 |
+| Average sale price in 2025 |  £275,044 |  £254,514 |
+| Increase in average price |  £200,586 |  £189,406 |
 | Percentage growth | 269.4% | 290.9% |
 
 ### Which City Experienced Stronger Growth?
@@ -43,8 +43,8 @@ That represents a difference of approximately **21.5 percentage points**.
 
 However, Birmingham recorded a larger absolute increase in average transaction prices:
 
-- Birmingham:  200,586 increase.
-- Coventry:  189,406 increase.
+- Birmingham:  £200,586 increase.
+- Coventry:  £189,406 increase.
 
 Birmingham also had higher average recorded transaction prices at both the beginning and end of the period.
 
@@ -60,32 +60,32 @@ The following table compares average recorded residential sale prices in the Bir
 
 | Year | Birmingham | Coventry |
 |---|---:|---:|
-| 2000 |  74,458 |  65,108 |
-| 2001 |  85,611 |  73,210 |
-| 2002 |  102,456 |  87,405 |
-| 2003 |  125,800 |  106,727 |
-| 2004 |  140,834 |  123,548 |
-| 2005 |  148,548 |  131,387 |
-| 2006 |  155,928 |  142,274 |
-| 2007 |  162,060 |  146,840 |
-| 2008 |  158,672 |  140,986 |
-| 2009 |  147,633 |  135,370 |
-| 2010 |  159,939 |  139,944 |
-| 2011 |  153,793 |  136,397 |
-| 2012 |  154,875 |  138,852 |
-| 2013 |  161,088 |  146,673 |
-| 2014 |  168,005 |  155,134 |
-| 2015 |  178,038 |  166,633 |
-| 2016 |  185,665 |  176,313 |
-| 2017 |  199,664 |  187,981 |
-| 2018 |  210,425 |  199,650 |
-| 2019 |  213,930 |  202,301 |
-| 2020 |  230,642 |  210,729 |
-| 2021 |  249,102 |  227,936 |
-| 2022 |  260,314 |  243,059 |
-| 2023 |  263,928 |  241,916 |
-| 2024 |  267,442 |  243,006 |
-| 2025 |  275,044 |  254,514 |
+| 2000 |  £74,458 |  £65,108 |
+| 2001 |  £85,611 |  £73,210 |
+| 2002 |  £102,456 |  £87,405 |
+| 2003 |  £125,800 |  £106,727 |
+| 2004 |  £140,834 |  £123,548 |
+| 2005 |  £148,548 |  £131,387 |
+| 2006 |  £155,928 |  £142,274 |
+| 2007 |  £162,060 |  £146,840 |
+| 2008 |  £158,672 |  £140,986 |
+| 2009 |  £147,633 |  £135,370 |
+| 2010 |  £159,939 |  £139,944 |
+| 2011 |  £153,793 |  £136,397 |
+| 2012 |  £154,875 |  £138,852 |
+| 2013 |  £161,088 |  £146,673 |
+| 2014 |  £168,005 |  £155,134 |
+| 2015 |  £178,038 |  £166,633 |
+| 2016 |  £185,665 |  £176,313 |
+| 2017 |  £199,664 |  £187,981 |
+| 2018 |  £210,425 |  £199,650 |
+| 2019 |  £213,930 |  £202,301 |
+| 2020 |  £230,642 |  £210,729 |
+| 2021 |  £249,102 |  £227,936 |
+| 2022 |  £260,314 |  £243,059 |
+| 2023 |  £263,928 |  £241,916 |
+| 2024 |  £267,442 |  £243,006 |
+| 2025 |  £275,044 |  £254,514 |
 
 *Source: HM Land Registry Price Paid Data. Figures are annual arithmetic averages of qualifying residential transactions within each local authority district.*
 
@@ -107,8 +107,8 @@ Both Birmingham and Coventry experienced substantial increases in average record
 
 Between 2000 and 2007:
 
-- Birmingham increased from  74,458 to  162,060   approximately 117.7%.
-- Coventry increased from  65,108 to  146,840   approximately 125.5%.
+- Birmingham increased from  £74,458 to  £162,060   approximately 117.7%.
+- Coventry increased from  £65,108 to  £146,840   approximately 125.5%.
 
 Coventry recorded stronger percentage growth during this period, although Birmingham maintained higher average transaction prices.
 
@@ -118,8 +118,8 @@ Both cities experienced falling and uneven average transaction prices following 
 
 By 2012:
 
-- Birmingham's average recorded sale price was  154,875.
-- Coventry's average recorded sale price was  138,852.
+- Birmingham's average recorded sale price was  £154,875.
+- Coventry's average recorded sale price was  £138,852.
 
 Both figures remained below their respective 2007 levels.
 
@@ -131,8 +131,8 @@ Both markets subsequently experienced substantial increases.
 
 Between 2013 and 2022:
 
-- Birmingham increased from  161,088 to  260,314   approximately 61.6%.
-- Coventry increased from  146,673 to  243,059   approximately 65.7%.
+- Birmingham increased from  £161,088 to  £260,314   approximately 61.6%.
+- Coventry increased from  £146,673 to  £243,059   approximately 65.7%.
 
 Coventry again recorded slightly stronger percentage growth over this period.
 
@@ -142,8 +142,8 @@ More recent transaction averages indicate slower growth in both cities.
 
 Between 2023 and 2025:
 
-- Birmingham increased from  263,928 to  275,044   approximately 4.2%.
-- Coventry increased from  241,916 to  254,514   approximately 5.2%.
+- Birmingham increased from  £263,928 to  £275,044   approximately 4.2%.
+- Coventry increased from  £241,916 to  £254,514   approximately 5.2%.
 
 Both cities recorded higher average transaction prices in 2025 than in 2023, but growth was considerably slower than during earlier periods.
 
