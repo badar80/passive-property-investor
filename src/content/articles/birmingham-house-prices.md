@@ -53,11 +53,11 @@ The global financial crisis interrupted Birmingham's earlier price growth.
 
 Average recorded transaction prices were:
 
-- **2008:**£158,672
-- **2009:**£147,633
-- **2010:**£159,939
-- **2011:**£153,793
-- **2012:**£154,875
+- **2008:** £158,672
+- **2009:** £147,633
+- **2010:** £159,939
+- **2011:** £153,793
+- **2012:** £154,875
 
 The average fell approximately **7.0% between 2008 and 2009**.
 
@@ -81,9 +81,9 @@ The annual figures show a relatively steady upward trend through much of the 201
 
 Average recorded prices then increased more quickly between 2020 and 2022:
 
-- **2020:**£230,642
-- **2021:**£249,102
-- **2022:**£260,314
+- **2020:** £230,642
+- **2021:** £249,102
+- **2022:** £260,314
 
 The pandemic-era housing market was influenced by changing housing preferences, government policy and unusually low borrowing costs during parts of the period.
 
