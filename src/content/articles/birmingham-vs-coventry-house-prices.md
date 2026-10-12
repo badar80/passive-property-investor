@@ -191,7 +191,7 @@ This comparison uses [HM Land Registry Price Paid Data](https://www.gov.uk/gover
 Transactions were selected using the following criteria:
 
 - **Districts:** BIRMINGHAM and COVENTRY.
-- **Years:**2000 2025.
+- **Years:** 2000 2025.
 - **Transaction category:** A (standard transactions).
 - **Property types:** Detached (D), semi-detached (S), terraced (T) and flats/maisonettes (F).
 - **Measure:** Arithmetic mean of recorded transaction prices for each calendar year.
@@ -224,8 +224,8 @@ For a more detailed examination of each city's historical property market, see:
 
 Between 2000 and 2025, Coventry recorded stronger percentage growth in average residential transaction prices:
 
-- **Coventry:**290.9%.
-- **Birmingham:**269.4%.
+- **Coventry:** 290.9%.
+- **Birmingham:** 269.4%.
 
 Birmingham nevertheless maintained higher average transaction prices and recorded a larger absolute increase.
 
