@@ -15,7 +15,7 @@ In **Manchester**, the mean recorded sale price was **£62,537 in 2000** and **�
 
 In **Birmingham**, the mean recorded sale price was **£74,459 in 2000** and **£275,044 in 2025**. That is a **269.4%** change across the period. The 2025 annual mean was **+2.8%** relative to 2024. There were **9,942** qualifying transactions in the 2025 extract.
 
-In 2025, **Manchester** averaged **£293,572** and **Birmingham** averaged **£275,044**. The difference (Manchester minus Birmingham) was ** 18,528**, with **Manchester** higher.
+In 2025, **Manchester** averaged **£293,572** and **Birmingham** averaged **£275,044**. The difference (Manchester minus Birmingham) was **£18,528**, with **Manchester** higher.
 
 ## Average sold prices
 

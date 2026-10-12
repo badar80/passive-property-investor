@@ -45,7 +45,7 @@ The year-on-year changes above compare each year's average transaction price wit
 
 The chart measures **Coventry's annual average minus Leicester's annual average**. Values above zero mean Coventry's average was higher; values below zero mean Leicester's average was higher.
 
-In 2025, the difference was ** 1,355**, with **Leicester** having the higher annual average.
+In 2025, the difference was **£1,355**, with **Leicester** having the higher annual average.
 
 ## Annual House Price Comparison
 

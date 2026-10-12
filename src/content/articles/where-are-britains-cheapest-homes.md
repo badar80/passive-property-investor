@@ -66,11 +66,11 @@ It is also important to distinguish **cheap** from **undervalued**. A £90,000 p
 - **Source:** HM Land Registry Price Paid Data, analysed from the `UKHousing.dbo.PricePaid_Fact` database.
 - **Geography:** England and Wales, not all of the UK.
 - **Historical period:** Completed transaction years 2000–2025. The database does not include 1995–1999, so this is not the full Land Registry historical series.
-- **Recent comparison:** 2020 versus 2025, both complete calendar years. 2026 is excluded from annual comparisons because the uploaded coverage extract runs only to **28 August 2026**.
+- **Recent comparison:**2020 versus 2025, both complete calendar years. 2026 is excluded from annual comparisons because the uploaded coverage extract runs only to **28 August 2026**.
 - **Definition:** A 'cheap sale' is a recorded transaction with a price **strictly below £100,000**, not £100,000 or less.
 - **Counting:** Sales are transactions, not unique dwellings or current property listings.
 - **Coverage caveat:** The figures are a snapshot of the user's local database. Late registrations, revisions, category filters and data loading choices can affect totals. The SQL behind the extracts has not yet been independently audited.
-- **Price threshold:** £100,000 is held constant in cash terms and is not adjusted for inflation.
+- **Price threshold:**£100,000 is held constant in cash terms and is not adjusted for inflation.
 
 **Data attribution:** Contains HM Land Registry data © Crown copyright and database right. HM Land Registry Price Paid Data is published under the Open Government Licence.
 

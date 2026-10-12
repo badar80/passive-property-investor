@@ -202,7 +202,7 @@ This analysis uses **HM Land Registry Price Paid Data** for England and Wales.
 Transactions were selected using the following criteria:
 
 - **District:** BIRMINGHAM
-- **Years:** 2000 2025
+- **Years:**2000 2025
 - **PPD category:** A (additional property transactions excluded)
 - **Property types:** Detached (D), semi-detached (S), terraced (T) and flats/maisonettes (F)
 - **Measure:** Arithmetic mean of recorded transaction prices for each calendar year

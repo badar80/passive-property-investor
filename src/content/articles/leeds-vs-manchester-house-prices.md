@@ -15,7 +15,7 @@ In **Leeds**, the mean recorded sale price was **£77,237 in 2000** and **£289,
 
 In **Manchester**, the mean recorded sale price was **£62,537 in 2000** and **£293,572 in 2025**. That is a **369.4%** change across the period. The 2025 annual mean was **+3.2%** relative to 2024. There were **4,894** qualifying transactions in the 2025 extract.
 
-In 2025, **Leeds** averaged **£289,999** and **Manchester** averaged **£293,572**. The difference (Leeds minus Manchester) was ** 3,573**, with **Manchester** higher.
+In 2025, **Leeds** averaged **£289,999** and **Manchester** averaged **£293,572**. The difference (Leeds minus Manchester) was **£3,573**, with **Manchester** higher.
 
 ## Average sold prices
 

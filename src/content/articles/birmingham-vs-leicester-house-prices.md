@@ -24,7 +24,7 @@ Using **HM Land Registry Price Paid Data**, this analysis compares annual averag
 
 ![Birmingham vs Leicester average house prices from 2000 to 2025](/images/birmingham-vs-leicester-average-house-prices-2000-2025.svg)
 
-Birmingham began the period with a higher average recorded price ( £74,459) than Leicester ( £57,715). By 2025, Birmingham averaged  £275,044 and Leicester  £255,869. The difference in 2025 was ** 19,175**, with Birmingham higher.
+Birmingham began the period with a higher average recorded price ( £74,459) than Leicester ( £57,715). By 2025, Birmingham averaged  £275,044 and Leicester  £255,869. The difference in 2025 was **£19,175**, with Birmingham higher.
 
 These are averages of properties sold in each calendar year. The mix of detached houses, terraces, flats and other property types can vary from year to year, influencing the figures.
 
@@ -44,7 +44,7 @@ The year-on-year series highlights periods when average transaction prices incre
 
 ![Difference between Birmingham and Leicester average house prices from 2000 to 2025](/images/birmingham-vs-leicester-price-gap-2000-2025.svg)
 
-This chart subtracts Leicester's annual average price from Birmingham's. Positive values mean Birmingham's average was higher; negative values mean Leicester's was higher. The gap was ** 16,744 in 2000** and ** 19,175 in 2025**.
+This chart subtracts Leicester's annual average price from Birmingham's. Positive values mean Birmingham's average was higher; negative values mean Leicester's was higher. The gap was **16,744 in 2000** and **19,175 in 2025**.
 
 ## Annual average house prices: full data table
 

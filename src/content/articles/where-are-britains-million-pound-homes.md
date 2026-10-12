@@ -146,7 +146,7 @@ Watch the four visualisations explained in the original YouTube video.
 
 **Source:** HM Land Registry Price Paid Data, analysed using my SQL Server housing database.
 
-**Coverage:** 3 January 2000 to 24 August 2026, according to the records included in this analysis.
+**Coverage:**3 January 2000 to 24 August 2026, according to the records included in this analysis.
 
 **Transaction filter:** Recorded sale price of at least £1,000,000; Price Paid Data category A; detached, semi-detached, terraced properties and flats.
 

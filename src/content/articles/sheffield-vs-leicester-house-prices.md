@@ -15,7 +15,7 @@ In **Sheffield**, the mean recorded sale price was **£66,479 in 2000** and **£
 
 In **Leicester**, the mean recorded sale price was **£57,715 in 2000** and **£255,869 in 2025**. That is a **343.3%** change across the period. The 2025 annual mean was **+0.6%** relative to 2024. There were **2,360** qualifying transactions in the 2025 extract.
 
-In 2025, **Sheffield** averaged **£262,978** and **Leicester** averaged **£255,869**. The difference (Sheffield minus Leicester) was ** 7,109**, with **Sheffield** higher.
+In 2025, **Sheffield** averaged **£262,978** and **Leicester** averaged **£255,869**. The difference (Sheffield minus Leicester) was **£7,109**, with **Sheffield** higher.
 
 ## Average sold prices
 
