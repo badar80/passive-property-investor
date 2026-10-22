@@ -1,5 +1,5 @@
 ---
-title: "Sheffield House Prices 2000–2025: Growth, Crashes and Recovery"
+title: "Sheffield House Prices (2000–2025): 25-Year Trends"
 description: "Discover how Sheffield house prices changed between 2000 and 2025, with original Land Registry charts covering price growth, downturns and property sales."
 pubDate: 2026-10-12
 category: "data"

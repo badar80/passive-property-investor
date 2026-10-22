@@ -1,5 +1,5 @@
 ---
-title: "Which Cities Recovered Fastest After the 2008 Financial Crisis?"
+title: "UK House Price Recovery After the 2008 Financial Crisis"
 description: "Discover how 20 cities in England and Wales recovered from the 2008 financial crisis, using Land Registry house-price data from 2000 to 2025."
 pubDate: 2026-10-12
 category: "data"

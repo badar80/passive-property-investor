@@ -1,5 +1,5 @@
 ---
-title: "Do New-Build Homes Cost More Than Older Properties? 2000–2025"
+title: "New-Build vs Existing House Prices (2000–2025)"
 description: "Explore new-build versus existing-property prices in England and Wales, with 25 years of Land Registry data, premium trends and property-type comparisons."
 pubDate: 2026-10-12
 category: "data"

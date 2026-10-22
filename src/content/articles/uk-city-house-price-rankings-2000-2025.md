@@ -1,5 +1,5 @@
 ---
-title: "UK City House Price Rankings 2000–2025: Which Cities Grew Most?"
+title: "UK City House Price Growth Rankings (2000–2025)"
 description: "Compare house-price growth across 20 UK cities from 2000 to 2025 using original Land Registry analysis, city rankings and three data visualisations."
 pubDate: 2026-10-12
 category: "data"

@@ -1,5 +1,5 @@
 ---
-title: "Leicester House Prices 2000–2025: Growth, Crashes and Recovery"
+title: "Leicester House Prices (2000–2025): 25-Year Trends"
 description: "Explore Leicester house prices from 2000 to 2025 with original Land Registry charts showing long-term growth, market downturns and annual property sales."
 pubDate: 2026-10-12
 category: "data"

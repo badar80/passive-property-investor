@@ -1,5 +1,5 @@
 ---
-title: "Which Cities Grew Fastest? Three Eras of House Prices"
+title: "UK City House Price Growth by Decade (2000–2025)"
 description: "See how house-price growth rankings changed across 20 cities in England and Wales between 2000 and 2025, with heatmaps and ranking charts."
 pubDate: 2026-10-12
 category: "data"

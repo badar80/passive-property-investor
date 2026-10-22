@@ -1,5 +1,5 @@
 ---
-title: "Bristol House Prices 2000–2025: Growth, Crashes and Recovery"
+title: "Bristol House Prices (2000–2025): 25-Year Trends and Crashes"
 description: "Discover how Bristol house prices changed between 2000 and 2025, with original Land Registry charts covering capital growth, downturns and transaction volumes."
 pubDate: 2026-10-12
 category: "data"

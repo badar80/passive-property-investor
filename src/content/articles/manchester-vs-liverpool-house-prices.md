@@ -1,5 +1,5 @@
 ---
-title: "Manchester vs Liverpool House Prices: Which City Has Performed Better?"
+title: "Manchester vs Liverpool House Prices (2000–2025)"
 description: "Compare Manchester and Liverpool house prices from 2000 to 2025 using original HM Land Registry analysis, growth charts and historical price comparisons."
 pubDate: 2026-10-12
 category: "data"

@@ -1,5 +1,5 @@
 ---
-title: "Which Cities Have the Biggest New-Build House Price Premiums?"
+title: "UK Cities With the Biggest New-Build Price Premiums"
 description: "Compare new-build and existing home prices across 20 cities in England and Wales, using 2000–2025 Land Registry sales data and original visualisations."
 pubDate: 2026-10-12
 category: "data"

@@ -1,5 +1,5 @@
 ---
-title: "Newcastle House Prices 2000–2025: 25 Years of Growth, Crashes and Recovery"
+title: "Newcastle House Prices (2000–2025): 25-Year Trends"
 description: "Explore Newcastle house prices from 2000 to 2025 using Land Registry data, with original charts covering price growth, downturns and property sales."
 pubDate: 2026-10-12
 category: "data"

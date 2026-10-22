@@ -1,5 +1,5 @@
 ---
-title: "Which UK Cities Have Seen the Biggest House Price Growth Since 2015?"
+title: "UK Cities With the Highest House Price Growth (2015–2025)"
 description: "Discover which of 20 UK cities recorded the strongest average house-price growth between 2015 and 2025, with original Land Registry charts and rankings."
 pubDate: 2026-10-12
 category: "data"

@@ -1,5 +1,5 @@
 ---
-title: "Where Are Britain's Million-Pound Homes? UK Property Sales Analysed"
+title: "Britain’s Million-Pound Homes: Where £1m+ Properties Sell"
 description: "Analysis of 322,575 UK property sales above £1 million, revealing the counties, towns, prices and trends behind Britain's luxury housing market."
 pubDate: "2026-10-10"
 category: "data"

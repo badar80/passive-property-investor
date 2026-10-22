@@ -1,5 +1,5 @@
 ---
-title: "Which Cities Have the Most Volatile House Prices?"
+title: "Most Volatile UK City House Prices (2000–2025)"
 description: "Explore house-price volatility across 20 cities in England and Wales from 2000 to 2025, with original charts comparing risk, growth and annual changes."
 pubDate: 2026-10-12
 category: "data"

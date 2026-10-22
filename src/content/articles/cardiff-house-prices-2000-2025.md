@@ -1,5 +1,5 @@
 ---
-title: "Cardiff House Prices 2000–2025: Growth, Crashes and Recovery"
+title: "Cardiff House Prices (2000–2025): 25-Year Market Trends"
 description: "Explore Cardiff house prices from 2000 to 2025, with original Land Registry charts showing capital growth, annual changes and property transactions."
 pubDate: 2026-10-12
 category: "data"

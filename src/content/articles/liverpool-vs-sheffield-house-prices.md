@@ -1,5 +1,5 @@
 ---
-title: "Liverpool vs Sheffield House Prices: 25 Years of Growth Compared (2000–2025)"
+title: "Liverpool vs Sheffield House Prices (2000–2025)"
 description: "Compare Liverpool and Sheffield house prices from 2000 to 2025 using original Land Registry data, three charts, growth rates and price premiums."
 pubDate: 2026-10-12
 category: "data"

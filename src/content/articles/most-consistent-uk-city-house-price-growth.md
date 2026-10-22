@@ -1,5 +1,5 @@
 ---
-title: "Which UK Cities Have Had the Most Consistent House Price Growth?"
+title: "UK Cities With the Most Consistent House Price Growth"
 description: "Original Land Registry analysis of 20 cities from 2000 to 2025, ranking positive-growth years, uninterrupted streaks and long-term price growth."
 pubDate: 2026-10-12
 category: "data"

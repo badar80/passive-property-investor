@@ -1,5 +1,5 @@
 ---
-title: "Which UK Cities Have Outperformed London on House Price Growth?"
+title: "UK Cities That Outperformed London on House Price Growth"
 description: "Compare London house-price growth with 19 cities across 5, 10, 15 and 25 years using original Land Registry analysis and visualisations."
 pubDate: 2026-10-12
 category: "data"

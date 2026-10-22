@@ -1,5 +1,5 @@
 ---
-title: "Liverpool vs Newcastle House Prices: 25 Years of Growth Compared (2000–2025)"
+title: "Liverpool vs Newcastle House Prices (2000–2025)"
 description: "Liverpool vs Newcastle house prices from 2000 to 2025. Compare capital growth, average prices, downturns and Newcastle's shrinking price premium using Land Registry data."
 pubDate: 2026-10-12
 category: "data"

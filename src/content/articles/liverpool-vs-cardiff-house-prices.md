@@ -1,5 +1,5 @@
 ---
-title: "Liverpool vs Cardiff House Prices: Which City Grew Faster? (2000–2025)"
+title: "Liverpool vs Cardiff House Prices (2000–2025)"
 description: "Liverpool vs Cardiff house prices from 2000 to 2025. Compare growth, affordability, volatility and the changing price gap using Land Registry data."
 pubDate: 2026-10-12
 category: "data"

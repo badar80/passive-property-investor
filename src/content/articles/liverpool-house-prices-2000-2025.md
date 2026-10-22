@@ -1,5 +1,5 @@
 ---
-title: "Liverpool House Prices: 25 Years of Growth, Crashes and Recovery (2000–2025)"
+title: "Liverpool House Prices (2000–2025): Growth and Crashes"
 description: "Explore 25 years of Liverpool house prices using HM Land Registry data, with original charts showing capital growth, annual changes and market recoveries."
 pubDate: 2026-10-12
 category: "data"

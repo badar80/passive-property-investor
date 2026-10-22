@@ -1,5 +1,5 @@
 ---
-title: "Where Are Britain's Cheapest Homes? A 25-Year Analysis of Sales Below £100,000"
+title: "Cheapest Homes in Britain: Sales Below £100,000"
 description: "Using 25 years of HM Land Registry transactions, discover how sales below £100,000 have changed and where they remain most common in England and Wales."
 pubDate: 2026-10-10
 category: "data"

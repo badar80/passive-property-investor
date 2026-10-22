@@ -1,5 +1,5 @@
 ---
-title: "Which UK Cities Have Experienced the Biggest House Price Falls?"
+title: "UK Cities With the Biggest House Price Falls (2000–2025)"
 description: "Compare the largest annual house-price falls, peak-to-trough declines and recovery periods across 20 cities using Land Registry data from 2000 to 2025."
 pubDate: 2026-10-12
 category: "data"

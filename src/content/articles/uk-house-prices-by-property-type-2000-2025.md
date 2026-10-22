@@ -1,5 +1,5 @@
 ---
-title: "Which UK Property Types Have Grown Fastest Since 2000?"
+title: "UK House Prices by Property Type (2000–2025)"
 description: "Compare detached, semi-detached, terraced and flat prices from 2000 to 2025 using HM Land Registry data, with original charts and analysis."
 pubDate: 2026-10-12
 category: "data"

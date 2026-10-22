@@ -1,5 +1,5 @@
 ---
-title: "Leeds House Prices 2000–2025: Growth, Crashes and Recovery"
+title: "Leeds House Prices (2000–2025): 25-Year Market Trends"
 description: "Explore Leeds house prices from 2000 to 2025 with original Land Registry charts showing capital growth, the financial crisis and annual property sales."
 pubDate: 2026-10-12
 category: "data"

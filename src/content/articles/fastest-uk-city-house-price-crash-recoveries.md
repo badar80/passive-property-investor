@@ -1,5 +1,5 @@
 ---
-title: "Which UK Cities Recovered Fastest After House Price Crashes?"
+title: "UK Cities With the Fastest House Price Crash Recoveries"
 description: "Original Land Registry analysis ranking house-price recovery times across 20 cities, with drawdown comparisons and peak-to-recovery timelines from 2000 to 2025."
 pubDate: 2026-10-12
 category: "data"

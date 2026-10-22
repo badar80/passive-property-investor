@@ -1,5 +1,5 @@
 ---
-title: "Liverpool vs Bristol House Prices: 25 Years of Growth Compared (2000–2025)"
+title: "Liverpool vs Bristol House Prices (2000–2025)"
 description: "Liverpool vs Bristol house prices from 2000 to 2025. Compare capital growth, affordability, volatility, downturns and Bristol's price premium using Land Registry data."
 pubDate: 2026-10-12
 category: "data"

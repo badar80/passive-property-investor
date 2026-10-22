@@ -1,5 +1,5 @@
 ---
-title: "Nottingham House Prices 2000–2025: Growth, Crashes and Recovery"
+title: "Nottingham House Prices (2000–2025): 25-Year Trends"
 description: "Explore Nottingham house prices from 2000 to 2025 using original Land Registry charts covering long-term growth, the financial crisis and annual property sales."
 pubDate: 2026-10-12
 category: "data"

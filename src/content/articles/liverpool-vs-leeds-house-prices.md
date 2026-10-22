@@ -1,5 +1,5 @@
 ---
-title: "Liverpool vs Leeds House Prices: Which City Has Performed Better? (2000–2025)"
+title: "Liverpool vs Leeds House Prices (2000–2025)"
 description: "Compare Liverpool and Leeds house prices from 2000 to 2025 using original HM Land Registry analysis, growth charts, volatility and historical price premiums."
 pubDate: 2026-10-12
 category: "data"
