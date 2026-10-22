@@ -1,6 +1,6 @@
 ---
-title: "Coventry House Prices: 25 Years of Property Price Data"
-description: "Coventry house prices from 2000 to 2025. Explore 25 years of Land Registry data, average property prices, historical trends and insights for investors."
+title: "Coventry House Prices: £254,514 Average in 2025 | 25-Year Trends"
+description: "Coventry's average recorded house sale price was £254,514 in 2025. Explore 25 years of HM Land Registry data, annual prices and historical trends."
 pubDate: 2026-10-07
 category: "data"
 ---
