@@ -1,6 +1,6 @@
 ---
-title: "UK House Price Heatmap: 25 Years of Change"
-description: "Explore 26 years of house prices across 20 UK cities with interactive-style visual heatmaps, price growth rankings and Land Registry analysis."
+title: "UK House Price Heatmap (2000–2025): Compare 20 Cities"
+description: "Explore UK house price heatmaps comparing 20 cities from 2000 to 2025. See average sold prices, property price growth and HM Land Registry trends."
 pubDate: 2026-10-12
 category: "data"
 ---
