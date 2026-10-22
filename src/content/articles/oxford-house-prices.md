@@ -1,6 +1,6 @@
 ---
-title: "Oxford House Prices: 2000–2025 Data Analysis"
-description: "Explore Oxford average sold house prices, annual changes and long-term growth from 2000 to 2025."
+title: "Oxford House Prices 2025: £585,850 Average | Property Market Trends"
+description: "Oxford's average recorded house sale price was £585,850 in 2025. Explore property market trends, annual prices and 25 years of HM Land Registry data."
 pubDate: 2026-10-09
 category: data
 ---
