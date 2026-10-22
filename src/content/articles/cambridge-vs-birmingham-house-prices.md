@@ -1,5 +1,5 @@
 ---
-title: "Cambridge vs Birmingham House Prices: 2000 2025 Comparison"
+title: "Cambridge vs Birmingham House Prices: 2000–2025 Comparison"
 description: "Compare Cambridge and Birmingham average sold prices from 2000 to 2025 using HM Land Registry Price Paid data."
 pubDate: 2026-10-09
 category: data

@@ -1,6 +1,6 @@
 
 ---
-title: "Birmingham vs Coventry House Prices: Which City Grew Faster (2000 2025)?"
+title: "Birmingham vs Coventry House Prices: Which City Grew Faster (2000–2025)?"
 description: "Compare Birmingham and Coventry house prices from 2000 to 2025 using HM Land Registry data, including historical growth, annual prices and property market trends."
 pubDate: 2026-10-09
 category: "data"

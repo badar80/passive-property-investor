@@ -1,5 +1,5 @@
 ---
-title: "Birmingham vs Leicester House Prices: Which City Grew Faster (2000 2025)?"
+title: "Birmingham vs Leicester House Prices: Which City Grew Faster (2000–2025)?"
 description: "Compare Birmingham and Leicester house prices from 2000 to 2025 using HM Land Registry sales data, including annual prices, percentage growth and investment considerations."
 pubDate: 2026-10-09
 category: "data"

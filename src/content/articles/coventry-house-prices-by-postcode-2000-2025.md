@@ -1,5 +1,5 @@
 ---
-title: "Coventry House Prices by Postcode: Which Areas Grew Fastest (2000 2025)?"
+title: "Coventry House Prices by Postcode: Which Areas Grew Fastest (2000–2025)?"
 description: "Original Land Registry analysis comparing 25 years of house-price growth across Coventry postcode districts CV1 CV7, including terraced houses and property-mix effects."
 pubDate: 2026-10-10
 category: data

@@ -1,5 +1,5 @@
 ---
-title: "Coventry vs Manchester House Prices: Which Grew Faster (2000 2025)?"
+title: "Coventry vs Manchester House Prices: Which Grew Faster (2000–2025)?"
 description: "Compare Coventry and Manchester average house prices from 2000 to 2025 using HM Land Registry sales data, with annual trends, charts and growth rates."
 pubDate: 2026-10-09
 category: "data"

@@ -1,5 +1,5 @@
 ---
-title: "Coventry vs Leicester House Prices: Which City Grew Faster (2000 2025)?"
+title: "Coventry vs Leicester House Prices: Which City Grew Faster (2000–2025)?"
 description: "Coventry vs Leicester house prices from 2000 to 2025: compare annual average sale prices, cumulative growth, yearly changes and the price gap using HM Land Registry data."
 pubDate: 2026-10-09
 category: "data"

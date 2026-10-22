@@ -1,5 +1,5 @@
 ---
-title: "Leeds vs Sheffield House Prices: Which Grew Faster (2000 2025)?"
+title: "Leeds vs Sheffield House Prices: Which Grew Faster (2000–2025)?"
 description: "Compare Leeds and Sheffield average house prices from 2000 to 2025 using HM Land Registry sales data, with annual trends, charts and growth rates."
 pubDate: 2026-10-09
 category: "data"

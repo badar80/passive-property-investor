@@ -1,5 +1,5 @@
 ---
-title: "Oxford vs Coventry House Prices: 2000 2025 Comparison"
+title: "Oxford vs Coventry House Prices: 2000–2025 Comparison"
 description: "Compare Oxford and Coventry average sold prices from 2000 to 2025 using HM Land Registry Price Paid data."
 pubDate: 2026-10-09
 category: data
