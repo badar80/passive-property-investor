@@ -1,6 +1,6 @@
 ---
-title: "Cambridge House Prices: 2000–2025 Data Analysis"
-description: "Explore Cambridge average sold house prices, annual changes and long-term growth from 2000 to 2025."
+title: "Cambridge House Prices 2025: £595,244 Average | Property Market Trends"
+description: "Cambridge's average recorded house sale price was £595,244 in 2025. Explore property market trends, annual prices and 25 years of HM Land Registry data."
 pubDate: 2026-10-09
 category: data
 ---
