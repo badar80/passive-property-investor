@@ -72,3 +72,8 @@ For anyone researching Coventry property investment, postcode-level growth is a 
 
 *Research by The Passive Property Investor. This is historical data analysis, not investment advice.*
 
+## Related property analysis
+
+- [Coventry vs Leicester House Prices: Which City Grew Faster (2000–2025)?](/articles/coventry-vs-leicester-house-prices/)
+- [Birmingham vs Coventry House Prices: Which City Grew Faster (2000–2025)?](/articles/birmingham-vs-coventry-house-prices/)
+- [Coventry House Prices: £254,514 Average in 2025 | 25-Year Trends](/articles/coventry-house-prices/)

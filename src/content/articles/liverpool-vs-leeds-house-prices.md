@@ -143,3 +143,8 @@ Town/City labels are not necessarily equivalent to local-authority boundaries. H
 Read our [Liverpool house-price history](/articles/liverpool-house-prices-2000-2025/), [Manchester versus Liverpool comparison](/articles/manchester-vs-liverpool-house-prices/) and [UK city growth rankings since 2015](/articles/biggest-uk-city-house-price-growth-since-2015/).
 
 *Original research and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Leeds House Prices 2025: £289,999 Average | Property Market Trends](/articles/leeds-house-prices/)

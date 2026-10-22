@@ -283,3 +283,9 @@ This analysis is not a constant-quality house-price index. It excludes rental in
 Past performance does not guarantee future investment returns.
 
 *Original analysis and visualisations by The Passive Property Investor.*
+
+## Related property analysis
+
+- [Sheffield vs Leicester House Prices: 2000–2025 Comparison](/articles/sheffield-vs-leicester-house-prices/)
+- [Coventry vs Leicester House Prices: Which City Grew Faster (2000–2025)?](/articles/coventry-vs-leicester-house-prices/)
+- [Birmingham vs Leicester House Prices: Which City Grew Faster (2000–2025)?](/articles/birmingham-vs-leicester-house-prices/)

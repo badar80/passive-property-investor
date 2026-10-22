@@ -115,3 +115,7 @@ Source: [HM Land Registry Price Paid Data](https://www.gov.uk/government/statist
 ## Conclusion: Coventry vs Leicester, 2000 2025
 
 On the measure used here growth in each district's **annual average recorded sale price** **Leicester grew faster** from 2000 to 2025 (290.9% for Coventry versus 343.3% for Leicester). That is useful historical context, but it does not by itself identify which city will deliver better future returns or rental yields.
+
+## Related property analysis
+
+- [Leicester House Prices (2000–2025): 25-Year Trends](/articles/leicester-house-prices-2000-2025/)

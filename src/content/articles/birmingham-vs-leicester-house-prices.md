@@ -121,3 +121,7 @@ All prices are **nominal** (not inflation-adjusted). New-build and existing-home
 ## Conclusion: Birmingham vs Leicester
 
 From 2000 to 2025, **Leicester showed stronger percentage growth in annual average recorded sale prices**, outperforming the other district by approximately **73.9 percentage points**. Birmingham's average sale price in 2025 was  £275,044, compared with  £255,869 in Leicester. These results provide historical context, but a sound property investment decision requires more granular local evidence and an assessment of costs and rental income.
+
+## Related property analysis
+
+- [Leicester House Prices (2000–2025): 25-Year Trends](/articles/leicester-house-prices-2000-2025/)

@@ -166,3 +166,9 @@ These studies use different geographical groupings from the district-level extra
 - Average prices are arithmetic means, not medians or repeat-sales indices; no inflation adjustment.
 - 2025 data may be affected by registration lag or later revisions.
 - This is descriptive historical analysis, not an investment forecast or valuation.
+
+## Related property analysis
+
+- [Manchester vs Birmingham House Prices: 2000–2025 Comparison](/articles/manchester-vs-birmingham-house-prices/)
+- [Leeds vs Manchester House Prices: 2000–2025 Comparison](/articles/leeds-vs-manchester-house-prices/)
+- [Coventry vs Manchester House Prices: Which Grew Faster (2000–2025)?](/articles/coventry-vs-manchester-house-prices/)

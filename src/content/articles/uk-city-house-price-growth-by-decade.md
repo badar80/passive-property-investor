@@ -107,3 +107,8 @@ These are **nominal transaction averages**, not like-for-like house-price indice
 For a different perspective, see our [25-year city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/) and our [30-location price-growth ranking](/articles/uk-house-prices-by-city-2000-2025/).
 
 *Source: HM Land Registry Price Paid Data. Analysis: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK Cities With the Highest House Price Growth (2015–2025)](/articles/biggest-uk-city-house-price-growth-since-2015/)
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)

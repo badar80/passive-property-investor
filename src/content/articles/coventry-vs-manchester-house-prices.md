@@ -85,3 +85,9 @@ Historic price growth is one input into a property investment decision, but it d
 - **Filters:** `PPDCategoryType = 'A'` and `PropertyType IN ('D','S','T','F')`.
 - **Metric:** unweighted arithmetic mean of sale prices for recorded transactions, nominal pounds, rounded for display.
 - **Caveats:** excludes other category/property types; annual changes may reflect transaction mix; figures are not inflation-adjusted or repeat-sales indices. The source extract should be checked for late data revisions.
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Manchester House Prices 2025: £293,572 Average | Property Market Trends](/articles/manchester-house-prices/)
+- [Coventry House Prices: £254,514 Average in 2025 | 25-Year Trends](/articles/coventry-house-prices/)

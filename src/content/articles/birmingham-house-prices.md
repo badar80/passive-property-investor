@@ -265,3 +265,7 @@ Explore how Birmingham's property market compares with neighbouring cities betwe
 
 - [Birmingham vs Coventry house prices (2000 2025)](/articles/birmingham-vs-coventry-house-prices/)   compare historical prices and long-term growth.
 - [Birmingham vs Leicester house prices (2000 2025)](/articles/birmingham-vs-leicester-house-prices/)   discover which city experienced stronger percentage growth.
+
+## Related property analysis
+
+- [Cambridge vs Birmingham House Prices: 2000–2025 Comparison](/articles/cambridge-vs-birmingham-house-prices/)

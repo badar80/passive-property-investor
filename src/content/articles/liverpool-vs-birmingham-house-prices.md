@@ -175,3 +175,8 @@ Town/City labels do not necessarily correspond to local-authority boundaries. Pa
 Explore our [Liverpool house-price history](/articles/liverpool-house-prices-2000-2025/), [Liverpool versus Leeds comparison](/articles/liverpool-vs-leeds-house-prices/) and [Liverpool versus Sheffield analysis](/articles/liverpool-vs-sheffield-house-prices/).
 
 *Original data analysis and visualisations by The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Birmingham House Prices: £275,044 Average in 2025 | 25-Year Trends](/articles/birmingham-house-prices/)

@@ -158,3 +158,8 @@ Town/City labels do not necessarily match local-authority boundaries. The analys
 Explore our [Liverpool house-price history](/articles/liverpool-house-prices-2000-2025/), [Liverpool versus Leeds comparison](/articles/liverpool-vs-leeds-house-prices/) and [Manchester versus Liverpool analysis](/articles/manchester-vs-liverpool-house-prices/).
 
 *Original data analysis and visualisations by The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Sheffield House Prices 2025: £262,978 Average | Property Market Trends](/articles/sheffield-house-prices/)

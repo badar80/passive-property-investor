@@ -112,3 +112,8 @@ The data does not control for property size, location within a city, condition, 
 For more context, read our [national new-build comparison](/articles/new-build-vs-existing-house-prices-2000-2025/) and our [20-city historical house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/).
 
 *Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)
+- [UK House Prices by Property Type (2000–2025)](/articles/uk-house-prices-by-property-type-2000-2025/)

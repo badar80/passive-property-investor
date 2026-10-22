@@ -114,3 +114,9 @@ Land Registry Town/City labels may not match administrative or metropolitan boun
 For further analysis, see our [20-city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/), [city house-price growth by decade](/articles/uk-city-house-price-growth-by-decade/) and [Manchester versus Birmingham comparison](/articles/manchester-vs-birmingham-house-prices/).
 
 *Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [UK Cities With the Highest House Price Growth (2015–2025)](/articles/biggest-uk-city-house-price-growth-since-2015/)
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)

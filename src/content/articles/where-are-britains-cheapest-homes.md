@@ -75,3 +75,9 @@ It is also important to distinguish **cheap** from **undervalued**. A £90,000 p
 **Data attribution:** Contains HM Land Registry data © Crown copyright and database right. HM Land Registry Price Paid Data is published under the Open Government Licence.
 
 *Explore more research and videos at [The Passive Property Investor](/data/) and [the video library](/videos/).*
+
+## Related property analysis
+
+- [UK House Price Heatmap (2000–2025): Compare 20 Cities](/articles/uk-house-price-heatmap-2000-2025/)
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Britain’s Million-Pound Homes: Where £1m+ Properties Sell](/articles/where-are-britains-million-pound-homes/)

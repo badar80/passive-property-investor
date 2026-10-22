@@ -95,3 +95,9 @@ The data is not inflation-adjusted, does not track the same properties through t
 For geographical comparisons, explore our [25-year city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/) and our [three-era city growth analysis](/articles/uk-city-house-price-growth-by-decade/).
 
 *Data source: HM Land Registry Price Paid Data. Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [UK Cities With the Biggest New-Build Price Premiums](/articles/uk-cities-new-build-price-premiums-2025/)
+- [New-Build vs Existing House Prices (2000–2025)](/articles/new-build-vs-existing-house-prices-2000-2025/)

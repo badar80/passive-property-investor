@@ -137,3 +137,8 @@ Town/City labels are not necessarily administrative boundaries, and this selecti
 For further analysis, read [which cities outperformed London](/articles/which-uk-cities-outperformed-london-house-prices/), [UK city house-price growth by decade](/articles/uk-city-house-price-growth-by-decade/) and [the city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/).
 
 *Original analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK Cities With the Most Consistent House Price Growth](/articles/most-consistent-uk-city-house-price-growth/)
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)

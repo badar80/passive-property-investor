@@ -123,3 +123,8 @@ These charts answer the first two questions at an aggregate level. The third req
 For a complementary comparison, see our existing [UK house prices by city: 25 years of property price growth](/articles/uk-house-prices-by-city-2000-2025/), which examines a wider selection of 30 locations.
 
 *Data source: HM Land Registry Price Paid Data. Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK City House Price Growth by Decade (2000–2025)](/articles/uk-city-house-price-growth-by-decade/)
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)

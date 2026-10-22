@@ -159,3 +159,9 @@ Watch the four visualisations explained in the original YouTube video.
 The charts were generated automatically using Python, ODBC and aggregated SQL Server queries.
 
 For more analysis, explore [UK property market data](/data/) or [the video library](/videos/).
+
+## Related property analysis
+
+- [UK House Price Heatmap (2000–2025): Compare 20 Cities](/articles/uk-house-price-heatmap-2000-2025/)
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Cheapest Homes in Britain: Sales Below £100,000](/articles/where-are-britains-cheapest-homes/)

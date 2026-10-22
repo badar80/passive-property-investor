@@ -261,3 +261,8 @@ The analysis is not a constant-quality house-price index and does not include re
 Past performance does not guarantee future results.
 
 *Original analysis and visualisations by The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)

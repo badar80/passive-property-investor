@@ -265,3 +265,8 @@ The analysis is not a constant-quality house-price index and does not include re
 Past performance does not guarantee future results.
 
 *Original analysis and visualisations by The Passive Property Investor.*
+
+## Related property analysis
+
+- [Leeds vs Sheffield House Prices: Which Grew Faster (2000–2025)?](/articles/leeds-vs-sheffield-house-prices/)
+- [Sheffield House Prices 2025: £262,978 Average | Property Market Trends](/articles/sheffield-house-prices/)

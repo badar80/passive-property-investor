@@ -183,3 +183,8 @@ Past performance does not predict future property returns.
 Explore our [Liverpool house-price history](/articles/liverpool-house-prices-2000-2025/), [Liverpool vs Leeds](/articles/liverpool-vs-leeds-house-prices/), [Liverpool vs Sheffield](/articles/liverpool-vs-sheffield-house-prices/), [Liverpool vs Birmingham](/articles/liverpool-vs-birmingham-house-prices/) and [Liverpool vs Newcastle](/articles/liverpool-vs-newcastle-house-prices/) analyses.
 
 *Original research and visualisations by The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Cardiff House Prices (2000–2025): 25-Year Market Trends](/articles/cardiff-house-prices-2000-2025/)

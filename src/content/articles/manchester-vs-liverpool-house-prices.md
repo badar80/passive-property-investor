@@ -123,3 +123,8 @@ Town/City labels do not necessarily match local-authority or metropolitan bounda
 For related research, see [Manchester house prices](/articles/manchester-house-prices/), [Manchester vs Birmingham](/articles/manchester-vs-birmingham-house-prices/) and [the biggest UK city house-price growth since 2015](/articles/biggest-uk-city-house-price-growth-since-2015/).
 
 *Original analysis and charts: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Liverpool House Prices (2000–2025): Growth and Crashes](/articles/liverpool-house-prices-2000-2025/)

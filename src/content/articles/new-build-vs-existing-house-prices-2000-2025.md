@@ -113,3 +113,8 @@ The analysis does not control for floor area, location, property condition or ch
 For further analysis, see our [property-type price growth comparison](/articles/uk-house-prices-by-property-type-2000-2025/) and our [25-year city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/).
 
 *Source: HM Land Registry Price Paid Data. Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)

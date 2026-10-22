@@ -101,3 +101,9 @@ Volatility in this article is therefore a descriptive statistic for recorded ave
 For more context, explore our [city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/) and our analysis of [recovery after the 2008 financial crisis](/articles/uk-house-price-recovery-after-2008-financial-crisis/).
 
 *Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK Cities With the Fastest House Price Crash Recoveries](/articles/fastest-uk-city-house-price-crash-recoveries/)
+- [UK Cities With the Most Consistent House Price Growth](/articles/most-consistent-uk-city-house-price-growth/)
+- [UK Cities With the Biggest House Price Falls (2000–2025)](/articles/biggest-uk-city-house-price-falls-2000-2025/)

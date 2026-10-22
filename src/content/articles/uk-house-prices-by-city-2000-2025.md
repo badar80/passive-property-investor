@@ -169,3 +169,9 @@ Our regional research examines how property prices have evolved across neighbour
 - [Birmingham vs Coventry (2000 2025)](/articles/birmingham-vs-coventry-house-prices/)   compare average prices and long-term capital growth.
 - [Coventry vs Leicester (2000 2025)](/articles/coventry-vs-leicester-house-prices/)   explore annual price movements and which city delivered stronger percentage growth.
 - [Birmingham vs Leicester (2000 2025)](/articles/birmingham-vs-leicester-house-prices/)   examine the difference between absolute house prices and percentage growth across the two cities.
+
+## Related property analysis
+
+- [UK City House Price Growth by Decade (2000–2025)](/articles/uk-city-house-price-growth-by-decade/)
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)
+- [UK House Price Heatmap (2000–2025): Compare 20 Cities](/articles/uk-house-price-heatmap-2000-2025/)

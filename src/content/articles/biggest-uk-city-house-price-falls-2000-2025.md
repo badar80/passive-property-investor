@@ -117,3 +117,7 @@ Changes in the composition of properties sold may affect annual averages. The To
 For related research, see our [2008 financial crisis recovery analysis](/articles/uk-house-price-recovery-after-2008-financial-crisis/), [city house-price volatility ranking](/articles/most-volatile-uk-city-house-prices-2000-2025/) and [most consistent city growth analysis](/articles/most-consistent-uk-city-house-price-growth/).
 
 *Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK Cities With the Fastest House Price Crash Recoveries](/articles/fastest-uk-city-house-price-crash-recoveries/)

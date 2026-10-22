@@ -104,3 +104,9 @@ The 2007 benchmark is a deliberate simplification. Individual cities may have re
 For related research, explore our [20-city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/) and [city house-price growth by decade](/articles/uk-city-house-price-growth-by-decade/).
 
 *Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [Most Volatile UK City House Prices (2000–2025)](/articles/most-volatile-uk-city-house-prices-2000-2025/)
+- [UK Cities With the Biggest House Price Falls (2000–2025)](/articles/biggest-uk-city-house-price-falls-2000-2025/)
+- [UK Cities With the Fastest House Price Crash Recoveries](/articles/fastest-uk-city-house-price-crash-recoveries/)

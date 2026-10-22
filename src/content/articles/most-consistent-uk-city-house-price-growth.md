@@ -113,3 +113,9 @@ This analysis covers selected cities in England and Wales, not every UK city.
 For related analysis, read our [city house-price volatility ranking](/articles/most-volatile-uk-city-house-prices-2000-2025/), [recovery after the 2008 financial crisis](/articles/uk-house-price-recovery-after-2008-financial-crisis/) and [20-city house-price heatmap](/articles/uk-house-price-heatmap-2000-2025/).
 
 *Analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)
+- [UK City House Price Growth by Decade (2000–2025)](/articles/uk-city-house-price-growth-by-decade/)
+- [UK Cities With the Highest House Price Growth (2015–2025)](/articles/biggest-uk-city-house-price-growth-since-2015/)

@@ -81,3 +81,9 @@ The price gap is the difference between the two annual mean sale prices, not a m
 - Average prices are arithmetic means, not medians or repeat-sales indices; no inflation adjustment.
 - 2025 data may be affected by registration lag or later revisions.
 - This is descriptive historical analysis, not an investment forecast or valuation.
+
+## Related property analysis
+
+- [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+- [Manchester House Prices 2025: £293,572 Average | Property Market Trends](/articles/manchester-house-prices/)
+- [Birmingham House Prices: £275,044 Average in 2025 | 25-Year Trends](/articles/birmingham-house-prices/)

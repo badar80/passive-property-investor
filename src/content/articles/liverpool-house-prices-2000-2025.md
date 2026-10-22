@@ -127,3 +127,9 @@ The Liverpool Town/City label should not automatically be treated as identical t
 Historical price changes are not a forecast of future performance.
 
 *Original analysis and visualisations: The Passive Property Investor.*
+
+## Related property analysis
+
+- [Liverpool vs Cardiff House Prices (2000–2025)](/articles/liverpool-vs-cardiff-house-prices/)
+- [Liverpool vs Bristol House Prices (2000–2025)](/articles/liverpool-vs-bristol-house-prices/)
+- [Liverpool vs Birmingham House Prices (2000–2025)](/articles/liverpool-vs-birmingham-house-prices/)
