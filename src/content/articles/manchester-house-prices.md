@@ -1,6 +1,6 @@
 ---
-title: "Manchester House Prices: 2000–2025 Data Analysis"
-description: "Explore Manchester average sold house prices, annual changes and long-term growth from 2000 to 2025."
+title: "Manchester House Prices 2025: £293,572 Average | Property Market Trends"
+description: "Manchester's average recorded house sale price was £293,572 in 2025. Explore property market trends, annual prices and 25 years of HM Land Registry data."
 pubDate: 2026-10-09
 category: data
 ---
