@@ -1,6 +1,6 @@
 ---
-title: "UK House Prices by City: 25 Years of Property Price Growth"
-description: "Which UK cities saw the biggest house price increases between 2000 and 2025? Compare 30 locations using HM Land Registry transaction data."
+title: "UK House Prices by City (2000–2025): 30-City Growth Rankings"
+description: "Compare house price growth across 30 towns and cities in England and Wales from 2000 to 2025. Explore rankings and historical HM Land Registry sale prices."
 pubDate: 2026-10-08
 category: "data"
 ---
