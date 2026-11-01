@@ -1,9 +1,11 @@
 ---
-title: "Birmingham House Prices: £275,044 Average in 2025 | 25-Year Trends"
-description: "The average Birmingham house sale price was £275,044 in 2025. Explore 25 years of HM Land Registry data, annual prices and historical property trends."
+title: "Birmingham House Prices 2025: £275,044 Average Sold Price"
+description: "Birmingham's average recorded sale price was £275,044 in 2025. Explore 2000–2025 Land Registry data, historical growth, charts and investment context."
 pubDate: 2026-10-09
 category: data
 ---
+
+The **average recorded residential sale price in Birmingham was £275,044 in 2025**, compared with £74,458 in 2000. These are annual transaction averages from HM Land Registry Price Paid Data, rather than a like-for-like house price index.
 
 Birmingham's average recorded residential sale price increased from **£74,458 in 2000 to  £275,044 in 2025**, a rise of approximately **269.4%** over 25 years.
 
@@ -269,3 +271,6 @@ Explore how Birmingham's property market compares with neighbouring cities betwe
 ## Related property analysis
 
 - [Cambridge vs Birmingham House Prices: 2000–2025 Comparison](/articles/cambridge-vs-birmingham-house-prices/)
+
+
+For a regional comparison, explore [Coventry house prices](/articles/coventry-house-prices/) and our [Birmingham vs Coventry analysis](/articles/birmingham-vs-coventry-house-prices/).

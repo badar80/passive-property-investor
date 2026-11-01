@@ -1,9 +1,11 @@
 ---
-title: "Coventry House Prices: £254,514 Average in 2025 | 25-Year Trends"
-description: "Coventry's average recorded house sale price was £254,514 in 2025. Explore 25 years of HM Land Registry data, annual prices and historical trends."
+title: "Coventry House Prices 2025: Average Sold Price and 25-Year Trends"
+description: "Coventry's average recorded sale price was £254,514 in 2025. Explore HM Land Registry house-price trends from 2000 to 2025, with charts and analysis."
 pubDate: 2026-10-07
 category: "data"
 ---
+
+The **average recorded residential sale price in Coventry was £254,514 in 2025**, according to our analysis of HM Land Registry Price Paid Data. That compares with £65,108 in 2000, an increase of approximately 290.9% in the annual transaction average.
 
 Coventry house prices have changed dramatically over the past 25 years, but the growth has not been evenly distributed across the city or across different property types.
 
@@ -179,3 +181,6 @@ How does Coventry compare with Leicester? Read our [Coventry vs Leicester house 
 ## Related property analysis
 
 - [Coventry vs Manchester House Prices: Which Grew Faster (2000–2025)?](/articles/coventry-vs-manchester-house-prices/)
+
+
+Compare these figures with [Birmingham house prices](/articles/birmingham-house-prices/) and our [Birmingham vs Coventry analysis](/articles/birmingham-vs-coventry-house-prices/).
