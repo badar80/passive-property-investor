@@ -1,9 +1,11 @@
 ---
-title: "UK House Prices by City (2000–2025): 30-City Growth Rankings"
-description: "Compare house price growth across 30 towns and cities in England and Wales from 2000 to 2025. Explore rankings and historical HM Land Registry sale prices."
+title: "UK House Price Growth by City: 30-City Rankings (2000–2025)"
+description: "Which UK cities had the fastest house price growth from 2000 to 2025? Compare 30 towns and cities using HM Land Registry data. Manchester leads at 369.4%."
 pubDate: 2026-10-08
 category: "data"
 ---
+
+**Manchester ranked first for house price growth among the 30 towns and cities analysed**, with its average recorded transaction price increasing by 369.4% between 2000 and 2025. Explore the full rankings below, based on HM Land Registry Price Paid Data for England and Wales.
 
 Which UK cities have experienced the strongest house price growth over the past 25 years?
 

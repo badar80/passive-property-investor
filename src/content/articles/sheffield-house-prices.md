@@ -1,9 +1,11 @@
 ---
-title: "Sheffield House Prices 2025: £262,978 Average | Property Market Trends"
-description: "Sheffield's average recorded house sale price was £262,978 in 2025. Explore property market trends, annual prices and 25 years of HM Land Registry data."
+title: "Sheffield House Prices 2025: £262,978 Average Sold Price"
+description: "Sheffield's average recorded house sale price was £262,978 in 2025, up 1.9% on 2024. Explore 2000–2025 Land Registry trends, charts and sales data."
 pubDate: 2026-10-09
 category: data
 ---
+
+The **average recorded residential sale price in Sheffield was £262,978 in 2025**, based on HM Land Registry Price Paid Data. This compares with £66,479 in 2000, an increase of approximately 295.6% in the annual transaction average. The 2025 figure was 1.9% higher than the 2024 average.
 
 ## Sheffield House Prices: 2000–2025 Data Analysis
 
@@ -210,3 +212,6 @@ Comparison articles may use different geographic definitions or transaction filt
 ## Related property analysis
 
 - [Liverpool vs Sheffield House Prices (2000–2025)](/articles/liverpool-vs-sheffield-house-prices/)
+
+
+For a wider perspective, explore our [UK house price growth rankings across 30 towns and cities](/articles/uk-house-prices-by-city-2000-2025/).
