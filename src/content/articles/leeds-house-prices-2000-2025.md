@@ -1,6 +1,6 @@
 ---
-title: "Leeds House Prices (2000–2025): 25-Year Market Trends"
-description: "Explore Leeds house prices from 2000 to 2025 with original Land Registry charts showing capital growth, the financial crisis and annual property sales."
+title: "Leeds House Price History: Crashes and Growth (2000–2025)"
+description: "Explore Leeds house price history from 2000 to 2025, including the 2008 financial crisis, market recovery, annual growth and Land Registry sales data."
 pubDate: 2026-10-12
 category: "data"
 ---
@@ -17,6 +17,8 @@ However, the market experienced significant fluctuations. Average prices decline
 
 Three original graphs reveal the long-term trend, annual growth rates and changes in transaction activity.
 
+
+> **About this historical dataset:** This analysis groups HM Land Registry transactions by the Town/City label **LEEDS**. Our [current Leeds house-price analysis](/articles/leeds-house-prices/) uses a separate district-level extract with specified residential transaction filters. The two series can therefore report different average prices and transaction totals. They should not be compared as identical geographic samples.
 ## Leeds house prices: key statistics
 
 | Measure | Result |

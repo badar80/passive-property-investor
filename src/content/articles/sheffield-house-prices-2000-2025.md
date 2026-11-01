@@ -1,6 +1,6 @@
 ---
-title: "Sheffield House Prices (2000–2025): 25-Year Trends"
-description: "Discover how Sheffield house prices changed between 2000 and 2025, with original Land Registry charts covering price growth, downturns and property sales."
+title: "Sheffield House Price History: Crashes and Growth (2000–2025)"
+description: "Explore Sheffield's house price history from 2000 to 2025, including financial-crisis declines, annual growth, transaction volumes and Land Registry charts."
 pubDate: 2026-10-12
 category: "data"
 ---
@@ -19,6 +19,8 @@ However, the market was not entirely free of downturns. Two years recorded falli
 
 Below, we examine the history using three original graphs.
 
+
+> **About this historical dataset:** This analysis groups HM Land Registry transactions by the Town/City label **SHEFFIELD**. Our [current Sheffield house-price analysis](/articles/sheffield-house-prices/) uses a separate district-level extract with specified residential transaction filters. The two series can therefore report different average prices and transaction totals. They should not be compared as identical geographic samples.
 ## Sheffield house prices: key statistics
 
 | Measure | Result |
