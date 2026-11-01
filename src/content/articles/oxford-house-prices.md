@@ -222,3 +222,5 @@ These comparison articles may use different geographic definitions or transactio
 ## Related property analysis
 
 - [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+
+For comparison with another major university city, explore [Cambridge house prices](/articles/cambridge-house-prices/) and our [Oxford versus Cambridge analysis](/articles/oxford-vs-cambridge-house-prices/).

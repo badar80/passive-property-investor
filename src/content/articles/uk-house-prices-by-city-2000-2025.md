@@ -177,3 +177,5 @@ Our regional research examines how property prices have evolved across neighbour
 - [UK City House Price Growth by Decade (2000–2025)](/articles/uk-city-house-price-growth-by-decade/)
 - [UK City House Price Growth Rankings (2000–2025)](/articles/uk-city-house-price-rankings-2000-2025/)
 - [UK House Price Heatmap (2000–2025): Compare 20 Cities](/articles/uk-house-price-heatmap-2000-2025/)
+
+For a closer look at this university-city market, see our [Cambridge house prices](/articles/cambridge-house-prices/) analysis, including annual transaction averages and historical trends.

@@ -257,3 +257,5 @@ Historical performance is not a reliable forecast of future price changes.
 - [UK City House Price Growth by Decade (2000–2025)](/articles/uk-city-house-price-growth-by-decade/)
 - [UK House Price Heatmap (2000–2025): Compare 20 Cities](/articles/uk-house-price-heatmap-2000-2025/)
 - [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
+
+Our [Cambridge house prices](/articles/cambridge-house-prices/) analysis provides a detailed 2000–2025 breakdown of this individual market.
