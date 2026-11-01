@@ -179,3 +179,7 @@ Our regional research examines how property prices have evolved across neighbour
 - [UK House Price Heatmap (2000–2025): Compare 20 Cities](/articles/uk-house-price-heatmap-2000-2025/)
 
 For a closer look at this university-city market, see our [Cambridge house prices](/articles/cambridge-house-prices/) analysis, including annual transaction averages and historical trends.
+
+## Historical house price research
+
+For city-specific historical analysis, explore our [Leeds house price history](/articles/leeds-house-prices-2000-2025/) and [Sheffield house price history](/articles/sheffield-house-prices-2000-2025/). These articles examine historical market cycles using Town/City transaction groupings; figures may differ from other geographic definitions.

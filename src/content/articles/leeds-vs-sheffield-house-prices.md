@@ -91,3 +91,7 @@ Historic price growth is one input into a property investment decision, but it d
 - [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
 - [Sheffield House Prices 2025: £262,978 Average | Property Market Trends](/articles/sheffield-house-prices/)
 - [Leeds House Prices 2025: £289,999 Average | Property Market Trends](/articles/leeds-house-prices/)
+
+## Historical house price research
+
+For a closer look at historical market cycles, see our [Leeds house price history](/articles/leeds-house-prices-2000-2025/) and [Sheffield house price history](/articles/sheffield-house-prices-2000-2025/). These studies use Town/City groupings, which can produce different figures from district-level comparisons.

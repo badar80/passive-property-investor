@@ -163,3 +163,7 @@ Explore our [Liverpool house-price history](/articles/liverpool-house-prices-200
 
 - [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
 - [Sheffield House Prices 2025: £262,978 Average | Property Market Trends](/articles/sheffield-house-prices/)
+
+## Historical house price research
+
+For more detail on historical downturns, price volatility and transaction volumes, explore our [Sheffield house price history](/articles/sheffield-house-prices-2000-2025/). Its Town/City dataset may differ from the geographic grouping used in this comparison.

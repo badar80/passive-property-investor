@@ -148,3 +148,7 @@ Read our [Liverpool house-price history](/articles/liverpool-house-prices-2000-2
 
 - [UK House Prices by City (2000–2025): 30-City Growth Rankings](/articles/uk-house-prices-by-city-2000-2025/)
 - [Leeds House Prices 2025: £289,999 Average | Property Market Trends](/articles/leeds-house-prices/)
+
+## Historical house price research
+
+For a detailed examination of historical growth, financial-crisis trends and property transactions, explore our [Leeds house price history](/articles/leeds-house-prices-2000-2025/). Its Town/City dataset may differ from the geographic grouping used in this comparison.
